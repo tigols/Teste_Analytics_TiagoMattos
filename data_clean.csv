@@ -1,0 +1,1352 @@
+"ID","Data","Produto","Quantidade","Categoria","Preco"
+44763,"2023-01-01","Esmalte",10,"Cosméticos",2.45
+146464,"2023-01-01","Batom",12,"Cosméticos",15.9
+63150,"2023-01-01","Pasta de dente",7,"Higiene pessoal",3.1
+142049,"2023-01-02","Pasta de dente",19,"Higiene pessoal",3.1
+77383,"2023-01-03","Esmalte",2,"Cosméticos",2.45
+38479,"2023-01-03","Fio dental",1,"Higiene pessoal",12.29
+80788,"2023-01-03","Rímel",5,"Cosméticos",29.9
+33030,"2023-01-04","Fio dental",5,"Higiene pessoal",12.29
+72863,"2023-01-04","Batom",8,"Cosméticos",15.9
+195463,"2023-01-04","Escova de dente",10,"Higiene pessoal",20.73
+28211,"2023-01-04","Dorflex",6,"Saúde",6.99
+61929,"2023-01-04","Esmalte",9,"Cosméticos",2.45
+29983,"2023-01-05","Rímel",10,"Cosméticos",29.9
+83473,"2023-01-06","Escova de dente",1,"Higiene pessoal",20.73
+79471,"2023-01-06","Batom",8,"Cosméticos",15.9
+72664,"2023-01-06","Dipirona",8,"Saúde",5.25
+95329,"2023-01-06","Rímel",7,"Cosméticos",29.9
+120700,"2023-01-07","Escova de dente",7,"Higiene pessoal",20.73
+27191,"2023-01-07","Fio dental",6,"Higiene pessoal",12.29
+55383,"2023-01-07","Dipirona",13,"Saúde",5.25
+93231,"2023-01-08","Esmalte",6,"Cosméticos",2.45
+120238,"2023-01-08","Rímel",11,"Cosméticos",29.9
+87806,"2023-01-08","Dipirona",9,"Saúde",5.25
+99428,"2023-01-09","Fio dental",10,"Higiene pessoal",12.29
+198847,"2023-01-09","Dipirona",18,"Saúde",5.25
+52073,"2023-01-09","Escova de dente",3,"Higiene pessoal",20.73
+34031,"2023-01-09","Batom",12,"Cosméticos",15.9
+81444,"2023-01-09","Esmalte",4,"Cosméticos",2.45
+71587,"2023-01-09","Rímel",6,"Cosméticos",29.9
+63248,"2023-01-10","Fio dental",7,"Higiene pessoal",12.29
+81496,"2023-01-10","Dipirona",2,"Saúde",5.25
+70086,"2023-01-10","Rímel",6,"Cosméticos",29.9
+102605,"2023-01-10","Pasta de dente",16,"Higiene pessoal",3.1
+46351,"2023-01-10","Escova de dente",8,"Higiene pessoal",20.73
+37393,"2023-01-10","Dorflex",10,"Saúde",6.99
+21072,"2023-01-11","Dipirona",5,"Saúde",5.25
+59963,"2023-01-11","Escova de dente",3,"Higiene pessoal",20.73
+73155,"2023-01-11","Fio dental",4,"Higiene pessoal",12.29
+93714,"2023-01-11","Pasta de dente",6,"Higiene pessoal",3.1
+75504,"2023-01-12","Fio dental",7,"Higiene pessoal",12.29
+158393,"2023-01-12","Rímel",22,"Cosméticos",29.9
+86064,"2023-01-12","Pasta de dente",10,"Higiene pessoal",3.1
+38187,"2023-01-12","Escova de dente",5,"Higiene pessoal",20.73
+86982,"2023-01-12","Esmalte",4,"Cosméticos",2.45
+44562,"2023-01-13","Fio dental",6,"Higiene pessoal",12.29
+90107,"2023-01-13","Rímel",9,"Cosméticos",29.9
+100996,"2023-01-13","Pasta de dente",13,"Higiene pessoal",3.1
+182435,"2023-01-14","Dorflex",9,"Saúde",6.99
+130399,"2023-01-14","Dipirona",6,"Saúde",5.25
+57329,"2023-01-14","Pasta de dente",4,"Higiene pessoal",3.1
+27181,"2023-01-14","Rímel",10,"Cosméticos",29.9
+80438,"2023-01-14","Fio dental",9,"Higiene pessoal",12.29
+132642,"2023-01-15","Rímel",14,"Cosméticos",29.9
+28665,"2023-01-15","Batom",4,"Cosméticos",15.9
+74609,"2023-01-15","Dipirona",3,"Saúde",5.25
+13515,"2023-01-15","Dorflex",3,"Saúde",6.99
+38042,"2023-01-15","Esmalte",7,"Cosméticos",2.45
+64946,"2023-01-16","Dorflex",6,"Saúde",6.99
+16515,"2023-01-16","Batom",9,"Cosméticos",15.9
+4131,"2023-01-16","Esmalte",3,"Cosméticos",2.45
+60004,"2023-01-17","Esmalte",9,"Cosméticos",2.45
+59373,"2023-01-17","Batom",7,"Cosméticos",15.9
+197568,"2023-01-18","Escova de dente",20,"Higiene pessoal",20.73
+102515,"2023-01-18","Dipirona",15,"Saúde",5.25
+70858,"2023-01-18","Fio dental",19,"Higiene pessoal",12.29
+48342,"2023-01-19","Dipirona",9,"Saúde",5.25
+98040,"2023-01-19","Pasta de dente",2,"Higiene pessoal",3.1
+3181,"2023-01-19","Rímel",4,"Cosméticos",29.9
+6081,"2023-01-20","Escova de dente",7,"Higiene pessoal",20.73
+31902,"2023-01-20","Dipirona",1,"Saúde",5.25
+22016,"2023-01-20","Pasta de dente",2,"Higiene pessoal",3.1
+110785,"2023-01-21","Escova de dente",21,"Higiene pessoal",20.73
+175302,"2023-01-21","Rímel",9,"Cosméticos",29.9
+73490,"2023-01-21","Pasta de dente",2,"Higiene pessoal",3.1
+74922,"2023-01-21","Dorflex",7,"Saúde",6.99
+99534,"2023-01-21","Batom",1,"Cosméticos",15.9
+69861,"2023-01-22","Pasta de dente",12,"Higiene pessoal",3.1
+4586,"2023-01-22","Escova de dente",8,"Higiene pessoal",20.73
+24716,"2023-01-22","Batom",10,"Cosméticos",15.9
+79675,"2023-01-22","Fio dental",4,"Higiene pessoal",12.29
+74643,"2023-01-22","Dipirona",9,"Saúde",5.25
+29655,"2023-01-22","Esmalte",10,"Cosméticos",2.45
+66026,"2023-01-23","Escova de dente",5,"Higiene pessoal",20.73
+38110,"2023-01-24","Batom",5,"Cosméticos",15.9
+53137,"2023-01-24","Pasta de dente",7,"Higiene pessoal",3.1
+82286,"2023-01-24","Escova de dente",8,"Higiene pessoal",20.73
+76360,"2023-01-25","Dorflex",6,"Saúde",6.99
+30746,"2023-01-25","Fio dental",2,"Higiene pessoal",12.29
+42868,"2023-01-25","Escova de dente",8,"Higiene pessoal",20.73
+91852,"2023-01-25","Batom",3,"Cosméticos",15.9
+150919,"2023-01-25","Dipirona",16,"Saúde",5.25
+29578,"2023-01-25","Rímel",8,"Cosméticos",29.9
+130664,"2023-01-26","Rímel",14,"Cosméticos",29.9
+25874,"2023-01-26","Esmalte",9,"Cosméticos",2.45
+90806,"2023-01-26","Dipirona",8,"Saúde",5.25
+30821,"2023-01-26","Dorflex",3,"Saúde",6.99
+27420,"2023-01-27","Batom",6,"Cosméticos",15.9
+67619,"2023-01-27","Rímel",5,"Cosméticos",29.9
+14570,"2023-01-27","Escova de dente",13,"Higiene pessoal",20.73
+3049,"2023-01-27","Dorflex",4,"Saúde",6.99
+12451,"2023-01-28","Fio dental",5,"Higiene pessoal",12.29
+73534,"2023-01-28","Dipirona",1,"Saúde",5.25
+15259,"2023-01-28","Esmalte",1,"Cosméticos",2.45
+689,"2023-01-28","Batom",3,"Cosméticos",15.9
+44270,"2023-01-28","Pasta de dente",5,"Higiene pessoal",3.1
+8196,"2023-01-29","Dorflex",6,"Saúde",6.99
+87774,"2023-01-30","Pasta de dente",4,"Higiene pessoal",3.1
+120791,"2023-01-30","Rímel",10,"Cosméticos",29.9
+957,"2023-01-30","Escova de dente",9,"Higiene pessoal",20.73
+69223,"2023-01-31","Dorflex",8,"Saúde",6.99
+149034,"2023-01-31","Pasta de dente",10,"Higiene pessoal",3.1
+42112,"2023-01-31","Dipirona",5,"Saúde",5.25
+61821,"2023-02-01","Pasta de dente",1,"Higiene pessoal",3.1
+85519,"2023-02-01","Batom",8,"Cosméticos",15.9
+89918,"2023-02-01","Esmalte",9,"Cosméticos",2.45
+93647,"2023-02-02","Esmalte",13,"Cosméticos",2.45
+111911,"2023-02-02","Batom",17,"Cosméticos",15.9
+67923,"2023-02-02","Dipirona",2,"Saúde",5.25
+29217,"2023-02-02","Fio dental",7,"Higiene pessoal",12.29
+88065,"2023-02-02","Rímel",1,"Cosméticos",29.9
+13119,"2023-02-03","Dorflex",6,"Saúde",6.99
+15852,"2023-02-03","Dipirona",4,"Saúde",5.25
+122114,"2023-02-03","Esmalte",9,"Cosméticos",2.45
+170473,"2023-02-03","Rímel",16,"Cosméticos",29.9
+33346,"2023-02-03","Fio dental",3,"Higiene pessoal",12.29
+64021,"2023-02-04","Escova de dente",6,"Higiene pessoal",20.73
+80097,"2023-02-04","Rímel",10,"Cosméticos",29.9
+46905,"2023-02-05","Dorflex",6,"Saúde",6.99
+10696,"2023-02-05","Fio dental",3,"Higiene pessoal",12.29
+53538,"2023-02-05","Esmalte",7,"Cosméticos",2.45
+3324,"2023-02-05","Escova de dente",1,"Higiene pessoal",20.73
+144714,"2023-02-06","Escova de dente",9,"Higiene pessoal",20.73
+152208,"2023-02-06","Batom",17,"Cosméticos",15.9
+26222,"2023-02-06","Dipirona",5,"Saúde",5.25
+14680,"2023-02-06","Esmalte",3,"Cosméticos",2.45
+52002,"2023-02-06","Rímel",6,"Cosméticos",29.9
+83119,"2023-02-07","Dipirona",11,"Saúde",5.25
+106831,"2023-02-07","Batom",5,"Cosméticos",15.9
+8559,"2023-02-07","Esmalte",7,"Cosméticos",2.45
+22762,"2023-02-07","Rímel",4,"Cosméticos",29.9
+57478,"2023-02-07","Pasta de dente",2,"Higiene pessoal",3.1
+31267,"2023-02-08","Batom",2,"Cosméticos",15.9
+23244,"2023-02-08","Dorflex",9,"Saúde",6.99
+79825,"2023-02-08","Rímel",10,"Cosméticos",29.9
+59569,"2023-02-08","Esmalte",3,"Cosméticos",2.45
+46892,"2023-02-09","Pasta de dente",2,"Higiene pessoal",3.1
+159089,"2023-02-09","Rímel",10,"Cosméticos",29.9
+94329,"2023-02-09","Fio dental",11,"Higiene pessoal",12.29
+149741,"2023-02-09","Esmalte",15,"Cosméticos",2.45
+190049,"2023-02-09","Escova de dente",8,"Higiene pessoal",20.73
+25603,"2023-02-10","Rímel",2,"Cosméticos",29.9
+111899,"2023-02-10","Batom",12,"Cosméticos",15.9
+15927,"2023-02-10","Esmalte",5,"Cosméticos",2.45
+151247,"2023-02-10","Dorflex",11,"Saúde",6.99
+80770,"2023-02-10","Escova de dente",7,"Higiene pessoal",20.73
+81270,"2023-02-11","Fio dental",1,"Higiene pessoal",12.29
+95539,"2023-02-11","Batom",1,"Cosméticos",15.9
+46580,"2023-02-11","Escova de dente",8,"Higiene pessoal",20.73
+34947,"2023-02-11","Rímel",10,"Cosméticos",29.9
+76715,"2023-02-11","Dorflex",3,"Saúde",6.99
+59583,"2023-02-12","Fio dental",3,"Higiene pessoal",12.29
+124860,"2023-02-12","Rímel",10,"Cosméticos",29.9
+96895,"2023-02-12","Pasta de dente",10,"Higiene pessoal",3.1
+75022,"2023-02-12","Esmalte",1,"Cosméticos",2.45
+68500,"2023-02-12","Escova de dente",6,"Higiene pessoal",20.73
+49898,"2023-02-13","Dipirona",5,"Saúde",5.25
+41713,"2023-02-13","Escova de dente",7,"Higiene pessoal",20.73
+76259,"2023-02-13","Dorflex",7,"Saúde",6.99
+92385,"2023-02-13","Pasta de dente",5,"Higiene pessoal",3.1
+99319,"2023-02-13","Rímel",2,"Cosméticos",29.9
+168702,"2023-02-14","Escova de dente",4,"Higiene pessoal",20.73
+103949,"2023-02-14","Fio dental",6,"Higiene pessoal",12.29
+10694,"2023-02-14","Rímel",9,"Cosméticos",29.9
+9954,"2023-02-14","Dipirona",1,"Saúde",5.25
+175102,"2023-02-14","Esmalte",11,"Cosméticos",2.45
+45630,"2023-02-15","Rímel",6,"Cosméticos",29.9
+81490,"2023-02-15","Dorflex",8,"Saúde",6.99
+66927,"2023-02-15","Esmalte",8,"Cosméticos",2.45
+156755,"2023-02-15","Pasta de dente",8,"Higiene pessoal",3.1
+70786,"2023-02-15","Dipirona",7,"Saúde",5.25
+39579,"2023-02-15","Batom",9,"Cosméticos",15.9
+130498,"2023-02-16","Dorflex",12,"Saúde",6.99
+68806,"2023-02-16","Fio dental",4,"Higiene pessoal",12.29
+47987,"2023-02-16","Batom",8,"Cosméticos",15.9
+83226,"2023-02-16","Rímel",8,"Cosméticos",29.9
+53564,"2023-02-16","Esmalte",3,"Cosméticos",2.45
+23575,"2023-02-16","Dipirona",5,"Saúde",5.25
+60502,"2023-02-17","Dorflex",4,"Saúde",6.99
+14034,"2023-02-17","Batom",7,"Cosméticos",15.9
+82617,"2023-02-18","Fio dental",8,"Higiene pessoal",12.29
+81456,"2023-02-18","Dipirona",6,"Saúde",5.25
+75010,"2023-02-18","Escova de dente",8,"Higiene pessoal",20.73
+51038,"2023-02-18","Esmalte",1,"Cosméticos",2.45
+88274,"2023-02-18","Pasta de dente",9,"Higiene pessoal",3.1
+112231,"2023-02-19","Batom",5,"Cosméticos",15.9
+68338,"2023-02-20","Batom",9,"Cosméticos",15.9
+91751,"2023-02-21","Batom",10,"Cosméticos",15.9
+15664,"2023-02-21","Fio dental",2,"Higiene pessoal",12.29
+117836,"2023-02-21","Rímel",10,"Cosméticos",29.9
+72542,"2023-02-21","Escova de dente",11,"Higiene pessoal",20.73
+42473,"2023-02-21","Esmalte",6,"Cosméticos",2.45
+73649,"2023-02-21","Dorflex",3,"Saúde",6.99
+17487,"2023-02-22","Batom",5,"Cosméticos",15.9
+85130,"2023-02-22","Fio dental",5,"Higiene pessoal",12.29
+39673,"2023-02-22","Rímel",2,"Cosméticos",29.9
+53849,"2023-02-22","Pasta de dente",10,"Higiene pessoal",3.1
+54948,"2023-02-22","Dipirona",5,"Saúde",5.25
+42972,"2023-02-22","Esmalte",13,"Cosméticos",2.45
+10435,"2023-02-22","Escova de dente",2,"Higiene pessoal",20.73
+179545,"2023-02-23","Rímel",30,"Cosméticos",29.9
+53471,"2023-02-23","Dipirona",8,"Saúde",5.25
+7725,"2023-02-23","Esmalte",2,"Cosméticos",2.45
+16588,"2023-02-23","Fio dental",12,"Higiene pessoal",12.29
+8882,"2023-02-23","Dorflex",9,"Saúde",6.99
+152049,"2023-02-25","Escova de dente",12,"Higiene pessoal",20.73
+12061,"2023-02-25","Dorflex",3,"Saúde",6.99
+40176,"2023-02-25","Pasta de dente",14,"Higiene pessoal",3.1
+13838,"2023-02-25","Esmalte",8,"Cosméticos",2.45
+208014,"2023-02-25","Rímel",18,"Cosméticos",29.9
+847,"2023-02-26","Pasta de dente",9,"Higiene pessoal",3.1
+185267,"2023-02-26","Rímel",14,"Cosméticos",29.9
+17198,"2023-02-26","Batom",10,"Cosméticos",15.9
+20673,"2023-02-26","Escova de dente",4,"Higiene pessoal",20.73
+169022,"2023-02-26","Fio dental",11,"Higiene pessoal",12.29
+1882,"2023-02-27","Esmalte",8,"Cosméticos",2.45
+22230,"2023-02-27","Escova de dente",7,"Higiene pessoal",20.73
+13877,"2023-02-27","Rímel",5,"Cosméticos",29.9
+89289,"2023-02-28","Rímel",12,"Cosméticos",29.9
+152784,"2023-02-28","Escova de dente",13,"Higiene pessoal",20.73
+19151,"2023-02-28","Esmalte",2,"Cosméticos",2.45
+15768,"2023-02-28","Batom",6,"Cosméticos",15.9
+90709,"2023-02-28","Fio dental",1,"Higiene pessoal",12.29
+189994,"2023-03-01","Dipirona",16,"Saúde",5.25
+8343,"2023-03-01","Batom",9,"Cosméticos",15.9
+33944,"2023-03-01","Esmalte",3,"Cosméticos",2.45
+54893,"2023-03-01","Rímel",2,"Cosméticos",29.9
+92309,"2023-03-01","Fio dental",1,"Higiene pessoal",12.29
+40447,"2023-03-01","Dorflex",8,"Saúde",6.99
+64123,"2023-03-02","Esmalte",4,"Cosméticos",2.45
+71313,"2023-03-03","Dorflex",5,"Saúde",6.99
+139833,"2023-03-03","Dipirona",18,"Saúde",5.25
+36786,"2023-03-03","Escova de dente",10,"Higiene pessoal",20.73
+5,"2023-03-03","Esmalte",9,"Cosméticos",2.45
+88658,"2023-03-03","Rímel",1,"Cosméticos",29.9
+5997,"2023-03-04","Dorflex",9,"Saúde",6.99
+61949,"2023-03-04","Pasta de dente",8,"Higiene pessoal",3.1
+20963,"2023-03-04","Fio dental",3,"Higiene pessoal",12.29
+81966,"2023-03-04","Esmalte",5,"Cosméticos",2.45
+24340,"2023-03-04","Rímel",2,"Cosméticos",29.9
+185754,"2023-03-05","Dorflex",9,"Saúde",6.99
+94649,"2023-03-05","Escova de dente",17,"Higiene pessoal",20.73
+48396,"2023-03-05","Batom",1,"Cosméticos",15.9
+77192,"2023-03-05","Fio dental",4,"Higiene pessoal",12.29
+15744,"2023-03-05","Dipirona",9,"Saúde",5.25
+8278,"2023-03-05","Rímel",7,"Cosméticos",29.9
+196619,"2023-03-06","Rímel",11,"Cosméticos",29.9
+31499,"2023-03-06","Dorflex",8,"Saúde",6.99
+5568,"2023-03-06","Fio dental",4,"Higiene pessoal",12.29
+79276,"2023-03-06","Pasta de dente",5,"Higiene pessoal",3.1
+23560,"2023-03-06","Dipirona",8,"Saúde",5.25
+89219,"2023-03-07","Escova de dente",8,"Higiene pessoal",20.73
+67351,"2023-03-07","Dipirona",22,"Saúde",5.25
+73234,"2023-03-07","Batom",6,"Cosméticos",15.9
+76380,"2023-03-07","Rímel",7,"Cosméticos",29.9
+59655,"2023-03-07","Pasta de dente",5,"Higiene pessoal",3.1
+63022,"2023-03-07","Dorflex",7,"Saúde",6.99
+66440,"2023-03-08","Rímel",16,"Cosméticos",29.9
+20879,"2023-03-08","Pasta de dente",4,"Higiene pessoal",3.1
+20455,"2023-03-08","Dorflex",5,"Saúde",6.99
+99226,"2023-03-09","Pasta de dente",5,"Higiene pessoal",3.1
+69036,"2023-03-09","Fio dental",4,"Higiene pessoal",12.29
+54988,"2023-03-09","Rímel",4,"Cosméticos",29.9
+26411,"2023-03-09","Batom",2,"Cosméticos",15.9
+82010,"2023-03-10","Batom",8,"Cosméticos",15.9
+49725,"2023-03-10","Dorflex",4,"Saúde",6.99
+29340,"2023-03-11","Esmalte",20,"Cosméticos",2.45
+67427,"2023-03-11","Batom",5,"Cosméticos",15.9
+265273,"2023-03-11","Pasta de dente",15,"Higiene pessoal",3.1
+26489,"2023-03-11","Dipirona",6,"Saúde",5.25
+19072,"2023-03-11","Escova de dente",4,"Higiene pessoal",20.73
+84850,"2023-03-12","Esmalte",4,"Cosméticos",2.45
+2122,"2023-03-13","Dipirona",1,"Saúde",5.25
+180012,"2023-03-13","Fio dental",3,"Higiene pessoal",12.29
+68026,"2023-03-13","Batom",8,"Cosméticos",15.9
+24651,"2023-03-14","Dipirona",8,"Saúde",5.25
+47223,"2023-03-14","Esmalte",9,"Cosméticos",2.45
+153886,"2023-03-15","Batom",18,"Cosméticos",15.9
+46054,"2023-03-15","Dorflex",3,"Saúde",6.99
+96313,"2023-03-16","Dipirona",16,"Saúde",5.25
+42892,"2023-03-16","Escova de dente",1,"Higiene pessoal",20.73
+24738,"2023-03-16","Fio dental",5,"Higiene pessoal",12.29
+46378,"2023-03-16","Pasta de dente",3,"Higiene pessoal",3.1
+43369,"2023-03-17","Dipirona",2,"Saúde",5.25
+63783,"2023-03-17","Pasta de dente",9,"Higiene pessoal",3.1
+8510,"2023-03-17","Esmalte",7,"Cosméticos",2.45
+125900,"2023-03-17","Escova de dente",12,"Higiene pessoal",20.73
+176377,"2023-03-17","Batom",8,"Cosméticos",15.9
+5857,"2023-03-17","Fio dental",7,"Higiene pessoal",12.29
+53255,"2023-03-18","Escova de dente",7,"Higiene pessoal",20.73
+194031,"2023-03-18","Rímel",22,"Cosméticos",29.9
+79066,"2023-03-18","Batom",8,"Cosméticos",15.9
+105686,"2023-03-18","Pasta de dente",12,"Higiene pessoal",3.1
+77318,"2023-03-18","Fio dental",4,"Higiene pessoal",12.29
+11435,"2023-03-19","Batom",6,"Cosméticos",15.9
+75701,"2023-03-19","Escova de dente",7,"Higiene pessoal",20.73
+122523,"2023-03-19","Dipirona",13,"Saúde",5.25
+85475,"2023-03-19","Fio dental",2,"Higiene pessoal",12.29
+57311,"2023-03-19","Pasta de dente",6,"Higiene pessoal",3.1
+18788,"2023-03-20","Dipirona",5,"Saúde",5.25
+41612,"2023-03-21","Rímel",8,"Cosméticos",29.9
+177071,"2023-03-21","Dorflex",15,"Saúde",6.99
+3180,"2023-03-22","Fio dental",10,"Higiene pessoal",12.29
+40309,"2023-03-22","Rímel",1,"Cosméticos",29.9
+84178,"2023-03-22","Batom",2,"Cosméticos",15.9
+97782,"2023-03-22","Pasta de dente",7,"Higiene pessoal",3.1
+220527,"2023-03-23","Fio dental",15,"Higiene pessoal",12.29
+150483,"2023-03-23","Rímel",22,"Cosméticos",29.9
+20803,"2023-03-23","Dipirona",10,"Saúde",5.25
+56516,"2023-03-23","Dorflex",5,"Saúde",6.99
+81475,"2023-03-24","Pasta de dente",1,"Higiene pessoal",3.1
+31575,"2023-03-24","Dipirona",4,"Saúde",5.25
+52632,"2023-03-24","Esmalte",3,"Cosméticos",2.45
+140930,"2023-03-25","Dipirona",8,"Saúde",5.25
+3126,"2023-03-26","Dorflex",2,"Saúde",6.99
+65106,"2023-03-26","Fio dental",1,"Higiene pessoal",12.29
+91114,"2023-03-27","Rímel",9,"Cosméticos",29.9
+157424,"2023-03-27","Dorflex",9,"Saúde",6.99
+137578,"2023-03-27","Pasta de dente",14,"Higiene pessoal",3.1
+12865,"2023-03-27","Esmalte",8,"Cosméticos",2.45
+55016,"2023-03-27","Escova de dente",3,"Higiene pessoal",20.73
+43712,"2023-03-27","Dipirona",4,"Saúde",5.25
+56808,"2023-03-28","Batom",4,"Cosméticos",15.9
+84879,"2023-03-28","Escova de dente",8,"Higiene pessoal",20.73
+61146,"2023-03-28","Rímel",7,"Cosméticos",29.9
+13244,"2023-03-28","Dipirona",2,"Saúde",5.25
+27733,"2023-03-28","Esmalte",7,"Cosméticos",2.45
+108954,"2023-03-29","Dorflex",5,"Saúde",6.99
+94452,"2023-03-29","Esmalte",7,"Cosméticos",2.45
+70657,"2023-03-29","Batom",8,"Cosméticos",15.9
+84501,"2023-03-29","Rímel",10,"Cosméticos",29.9
+26519,"2023-03-30","Rímel",9,"Cosméticos",29.9
+30077,"2023-03-31","Fio dental",1,"Higiene pessoal",12.29
+75624,"2023-03-31","Esmalte",5,"Cosméticos",2.45
+61883,"2023-03-31","Batom",6,"Cosméticos",15.9
+181197,"2023-04-01","Dorflex",12,"Saúde",6.99
+110487,"2023-04-01","Esmalte",6,"Cosméticos",2.45
+31286,"2023-04-01","Rímel",3,"Cosméticos",29.9
+151178,"2023-04-02","Fio dental",11,"Higiene pessoal",12.29
+14722,"2023-04-02","Esmalte",5,"Cosméticos",2.45
+48346,"2023-04-02","Pasta de dente",4,"Higiene pessoal",3.1
+51230,"2023-04-03","Dipirona",3,"Saúde",5.25
+44575,"2023-04-03","Esmalte",3,"Cosméticos",2.45
+79511,"2023-04-04","Dipirona",3,"Saúde",5.25
+11831,"2023-04-04","Esmalte",2,"Cosméticos",2.45
+44130,"2023-04-04","Fio dental",5,"Higiene pessoal",12.29
+146474,"2023-04-04","Pasta de dente",7,"Higiene pessoal",3.1
+92929,"2023-04-04","Batom",4,"Cosméticos",15.9
+90128,"2023-04-04","Escova de dente",6,"Higiene pessoal",20.73
+28972,"2023-04-05","Dorflex",6,"Saúde",6.99
+45735,"2023-04-05","Rímel",8,"Cosméticos",29.9
+46733,"2023-04-05","Pasta de dente",10,"Higiene pessoal",3.1
+21460,"2023-04-06","Dipirona",7,"Saúde",5.25
+13510,"2023-04-06","Dorflex",3,"Saúde",6.99
+175019,"2023-04-06","Esmalte",9,"Cosméticos",2.45
+75752,"2023-04-07","Dipirona",5,"Saúde",5.25
+16634,"2023-04-08","Pasta de dente",10,"Higiene pessoal",3.1
+55029,"2023-04-09","Esmalte",7,"Cosméticos",2.45
+13069,"2023-04-10","Escova de dente",13,"Higiene pessoal",20.73
+72541,"2023-04-10","Pasta de dente",10,"Higiene pessoal",3.1
+55824,"2023-04-10","Rímel",3,"Cosméticos",29.9
+154269,"2023-04-10","Dorflex",18,"Saúde",6.99
+78170,"2023-04-11","Rímel",9,"Cosméticos",29.9
+104594,"2023-04-11","Batom",14,"Cosméticos",15.9
+29895,"2023-04-11","Escova de dente",3,"Higiene pessoal",20.73
+63462,"2023-04-11","Esmalte",11,"Cosméticos",2.45
+29291,"2023-04-11","Fio dental",6,"Higiene pessoal",12.29
+57710,"2023-04-12","Fio dental",4,"Higiene pessoal",12.29
+52449,"2023-04-12","Dorflex",10,"Saúde",6.99
+63424,"2023-04-13","Pasta de dente",5,"Higiene pessoal",3.1
+12246,"2023-04-13","Dipirona",3,"Saúde",5.25
+85884,"2023-04-13","Fio dental",8,"Higiene pessoal",12.29
+96179,"2023-04-13","Rímel",11,"Cosméticos",29.9
+134336,"2023-04-13","Dorflex",8,"Saúde",6.99
+54244,"2023-04-13","Batom",1,"Cosméticos",15.9
+42410,"2023-04-14","Dipirona",13,"Saúde",5.25
+69789,"2023-04-14","Fio dental",9,"Higiene pessoal",12.29
+42926,"2023-04-14","Esmalte",3,"Cosméticos",2.45
+103574,"2023-04-15","Pasta de dente",11,"Higiene pessoal",3.1
+71247,"2023-04-15","Dipirona",6,"Saúde",5.25
+123885,"2023-04-16","Batom",9,"Cosméticos",15.9
+68217,"2023-04-16","Dipirona",10,"Saúde",5.25
+48605,"2023-04-16","Fio dental",3,"Higiene pessoal",12.29
+74805,"2023-04-17","Esmalte",9,"Cosméticos",2.45
+264666,"2023-04-17","Pasta de dente",22,"Higiene pessoal",3.1
+55900,"2023-04-17","Dorflex",3,"Saúde",6.99
+94092,"2023-04-17","Fio dental",2,"Higiene pessoal",12.29
+57867,"2023-04-17","Batom",3,"Cosméticos",15.9
+7294,"2023-04-18","Pasta de dente",6,"Higiene pessoal",3.1
+86628,"2023-04-18","Dorflex",3,"Saúde",6.99
+49840,"2023-04-19","Dipirona",7,"Saúde",5.25
+47616,"2023-04-19","Esmalte",8,"Cosméticos",2.45
+93885,"2023-04-20","Dipirona",4,"Saúde",5.25
+74372,"2023-04-20","Batom",10,"Cosméticos",15.9
+42924,"2023-04-20","Dorflex",7,"Saúde",6.99
+11721,"2023-04-21","Batom",2,"Cosméticos",15.9
+43159,"2023-04-22","Dipirona",5,"Saúde",5.25
+68397,"2023-04-22","Esmalte",15,"Cosméticos",2.45
+99005,"2023-04-23","Batom",3,"Cosméticos",15.9
+147228,"2023-04-23","Escova de dente",15,"Higiene pessoal",20.73
+45276,"2023-04-23","Fio dental",8,"Higiene pessoal",12.29
+35555,"2023-04-23","Dorflex",10,"Saúde",6.99
+86452,"2023-04-23","Rímel",10,"Cosméticos",29.9
+91969,"2023-04-24","Fio dental",7,"Higiene pessoal",12.29
+16064,"2023-04-24","Rímel",8,"Cosméticos",29.9
+123846,"2023-04-24","Dorflex",8,"Saúde",6.99
+40494,"2023-04-24","Pasta de dente",6,"Higiene pessoal",3.1
+95081,"2023-04-24","Dipirona",1,"Saúde",5.25
+47675,"2023-04-25","Dipirona",1,"Saúde",5.25
+36904,"2023-04-25","Fio dental",6,"Higiene pessoal",12.29
+90862,"2023-04-25","Pasta de dente",4,"Higiene pessoal",3.1
+83276,"2023-04-25","Esmalte",4,"Cosméticos",2.45
+138480,"2023-04-25","Rímel",9,"Cosméticos",29.9
+46493,"2023-04-25","Batom",2,"Cosméticos",15.9
+1351,"2023-04-26","Pasta de dente",4,"Higiene pessoal",3.1
+20556,"2023-04-26","Esmalte",9,"Cosméticos",2.45
+82688,"2023-04-26","Rímel",10,"Cosméticos",29.9
+121772,"2023-04-27","Pasta de dente",13,"Higiene pessoal",3.1
+157122,"2023-04-27","Esmalte",15,"Cosméticos",2.45
+18928,"2023-04-27","Rímel",4,"Cosméticos",29.9
+35327,"2023-04-27","Dipirona",2,"Saúde",5.25
+18821,"2023-04-27","Fio dental",2,"Higiene pessoal",12.29
+44983,"2023-04-27","Batom",8,"Cosméticos",15.9
+139840,"2023-04-28","Fio dental",13,"Higiene pessoal",12.29
+94202,"2023-04-28","Dorflex",7,"Saúde",6.99
+88673,"2023-04-28","Dipirona",2,"Saúde",5.25
+38493,"2023-04-28","Esmalte",6,"Cosméticos",2.45
+58552,"2023-04-28","Pasta de dente",7,"Higiene pessoal",3.1
+64136,"2023-04-29","Dorflex",4,"Saúde",6.99
+25432,"2023-04-29","Pasta de dente",6,"Higiene pessoal",3.1
+123777,"2023-04-29","Fio dental",12,"Higiene pessoal",12.29
+38084,"2023-04-29","Escova de dente",5,"Higiene pessoal",20.73
+7555,"2023-04-29","Esmalte",5,"Cosméticos",2.45
+72380,"2023-04-30","Escova de dente",6,"Higiene pessoal",20.73
+88785,"2023-04-30","Dipirona",25,"Saúde",5.25
+43496,"2023-04-30","Esmalte",4,"Cosméticos",2.45
+2948,"2023-04-30","Fio dental",8,"Higiene pessoal",12.29
+101404,"2023-04-30","Dorflex",8,"Saúde",6.99
+40580,"2023-04-30","Batom",8,"Cosméticos",15.9
+54677,"2023-04-30","Rímel",5,"Cosméticos",29.9
+136067,"2023-05-01","Rímel",18,"Cosméticos",29.9
+64540,"2023-05-01","Dipirona",6,"Saúde",5.25
+86019,"2023-05-01","Fio dental",3,"Higiene pessoal",12.29
+92821,"2023-05-01","Dorflex",2,"Saúde",6.99
+14707,"2023-05-01","Escova de dente",10,"Higiene pessoal",20.73
+78120,"2023-05-01","Pasta de dente",1,"Higiene pessoal",3.1
+14800,"2023-05-01","Esmalte",2,"Cosméticos",2.45
+118922,"2023-05-02","Fio dental",8,"Higiene pessoal",12.29
+46336,"2023-05-02","Rímel",14,"Cosméticos",29.9
+82556,"2023-05-02","Escova de dente",10,"Higiene pessoal",20.73
+224411,"2023-05-03","Dorflex",31,"Saúde",6.99
+4404,"2023-05-03","Batom",18,"Cosméticos",15.9
+97975,"2023-05-03","Rímel",12,"Cosméticos",29.9
+7890,"2023-05-03","Escova de dente",2,"Higiene pessoal",20.73
+52341,"2023-05-03","Esmalte",20,"Cosméticos",2.45
+39879,"2023-05-03","Fio dental",8,"Higiene pessoal",12.29
+37741,"2023-05-03","Pasta de dente",2,"Higiene pessoal",3.1
+92420,"2023-05-04","Dorflex",1,"Saúde",6.99
+94699,"2023-05-04","Dipirona",14,"Saúde",5.25
+91215,"2023-05-04","Escova de dente",13,"Higiene pessoal",20.73
+84209,"2023-05-05","Fio dental",3,"Higiene pessoal",12.29
+58315,"2023-05-05","Rímel",38,"Cosméticos",29.9
+16954,"2023-05-05","Dipirona",7,"Saúde",5.25
+43124,"2023-05-05","Esmalte",18,"Cosméticos",2.45
+75216,"2023-05-05","Pasta de dente",6,"Higiene pessoal",3.1
+140365,"2023-05-06","Esmalte",20,"Cosméticos",2.45
+153938,"2023-05-06","Batom",22,"Cosméticos",15.9
+84906,"2023-05-06","Dorflex",2,"Saúde",6.99
+14528,"2023-05-06","Fio dental",6,"Higiene pessoal",12.29
+81274,"2023-05-06","Pasta de dente",5,"Higiene pessoal",3.1
+48999,"2023-05-06","Escova de dente",10,"Higiene pessoal",20.73
+41961,"2023-05-07","Rímel",6,"Cosméticos",29.9
+61833,"2023-05-07","Fio dental",9,"Higiene pessoal",12.29
+73535,"2023-05-07","Escova de dente",2,"Higiene pessoal",20.73
+316,"2023-05-09","Pasta de dente",7,"Higiene pessoal",3.1
+5808,"2023-05-09","Dipirona",10,"Saúde",5.25
+61045,"2023-05-09","Rímel",12,"Cosméticos",29.9
+71310,"2023-05-09","Escova de dente",7,"Higiene pessoal",20.73
+182118,"2023-05-10","Pasta de dente",8,"Higiene pessoal",3.1
+50673,"2023-05-10","Batom",14,"Cosméticos",15.9
+20015,"2023-05-10","Dorflex",2,"Saúde",6.99
+27040,"2023-05-10","Dipirona",6,"Saúde",5.25
+50455,"2023-05-11","Dorflex",3,"Saúde",6.99
+176021,"2023-05-11","Pasta de dente",16,"Higiene pessoal",3.1
+77146,"2023-05-11","Esmalte",6,"Cosméticos",2.45
+29932,"2023-05-11","Rímel",34,"Cosméticos",29.9
+49451,"2023-05-12","Dipirona",11,"Saúde",5.25
+81064,"2023-05-12","Escova de dente",2,"Higiene pessoal",20.73
+93123,"2023-05-12","Pasta de dente",5,"Higiene pessoal",3.1
+130177,"2023-05-12","Dorflex",10,"Saúde",6.99
+17045,"2023-05-12","Esmalte",16,"Cosméticos",2.45
+35992,"2023-05-13","Batom",14,"Cosméticos",15.9
+86287,"2023-05-13","Escova de dente",5,"Higiene pessoal",20.73
+55649,"2023-05-14","Esmalte",6,"Cosméticos",2.45
+56837,"2023-05-14","Pasta de dente",3,"Higiene pessoal",3.1
+154839,"2023-05-14","Dorflex",7,"Saúde",6.99
+111226,"2023-05-14","Batom",36,"Cosméticos",15.9
+32686,"2023-05-15","Dorflex",2,"Saúde",6.99
+106459,"2023-05-15","Escova de dente",20,"Higiene pessoal",20.73
+93484,"2023-05-16","Dipirona",17,"Saúde",5.25
+91394,"2023-05-16","Pasta de dente",19,"Higiene pessoal",3.1
+38021,"2023-05-16","Esmalte",18,"Cosméticos",2.45
+77181,"2023-05-16","Escova de dente",6,"Higiene pessoal",20.73
+38579,"2023-05-16","Dorflex",3,"Saúde",6.99
+83502,"2023-05-16","Rímel",10,"Cosméticos",29.9
+24653,"2023-05-17","Rímel",10,"Cosméticos",29.9
+66082,"2023-05-18","Fio dental",16,"Higiene pessoal",12.29
+62936,"2023-05-19","Dipirona",4,"Saúde",5.25
+38995,"2023-05-19","Fio dental",7,"Higiene pessoal",12.29
+53677,"2023-05-19","Dorflex",20,"Saúde",6.99
+32725,"2023-05-19","Rímel",16,"Cosméticos",29.9
+31663,"2023-05-19","Pasta de dente",10,"Higiene pessoal",3.1
+77852,"2023-05-19","Esmalte",8,"Cosméticos",2.45
+49713,"2023-05-20","Batom",6,"Cosméticos",15.9
+62378,"2023-05-20","Esmalte",8,"Cosméticos",2.45
+35840,"2023-05-20","Dorflex",4,"Saúde",6.99
+97499,"2023-05-20","Escova de dente",4,"Higiene pessoal",20.73
+7223,"2023-05-20","Fio dental",4,"Higiene pessoal",12.29
+72530,"2023-05-20","Pasta de dente",7,"Higiene pessoal",3.1
+74565,"2023-05-20","Rímel",12,"Cosméticos",29.9
+25412,"2023-05-21","Dorflex",2,"Saúde",6.99
+157987,"2023-05-21","Rímel",20,"Cosméticos",29.9
+66576,"2023-05-21","Fio dental",7,"Higiene pessoal",12.29
+35747,"2023-05-22","Escova de dente",9,"Higiene pessoal",20.73
+40905,"2023-05-23","Rímel",8,"Cosméticos",29.9
+17974,"2023-05-24","Batom",8,"Cosméticos",15.9
+93176,"2023-05-24","Rímel",30,"Cosméticos",29.9
+82769,"2023-05-24","Esmalte",16,"Cosméticos",2.45
+160778,"2023-05-25","Escova de dente",10,"Higiene pessoal",20.73
+98074,"2023-05-25","Fio dental",4,"Higiene pessoal",12.29
+160812,"2023-05-25","Dorflex",11,"Saúde",6.99
+22134,"2023-05-25","Batom",18,"Cosméticos",15.9
+40052,"2023-05-25","Dipirona",3,"Saúde",5.25
+68586,"2023-05-26","Batom",14,"Cosméticos",15.9
+80091,"2023-05-27","Dorflex",1,"Saúde",6.99
+77967,"2023-05-27","Batom",16,"Cosméticos",15.9
+33110,"2023-05-27","Fio dental",4,"Higiene pessoal",12.29
+140898,"2023-05-28","Dorflex",25,"Saúde",6.99
+96288,"2023-05-28","Rímel",16,"Cosméticos",29.9
+55319,"2023-05-29","Batom",28,"Cosméticos",15.9
+72613,"2023-05-29","Rímel",8,"Cosméticos",29.9
+34007,"2023-05-29","Dipirona",10,"Saúde",5.25
+68052,"2023-05-29","Dorflex",1,"Saúde",6.99
+65378,"2023-05-29","Esmalte",4,"Cosméticos",2.45
+26372,"2023-05-30","Dorflex",9,"Saúde",6.99
+75190,"2023-05-30","Batom",8,"Cosméticos",15.9
+83069,"2023-05-31","Escova de dente",9,"Higiene pessoal",20.73
+34330,"2023-05-31","Batom",8,"Cosméticos",15.9
+160276,"2023-05-31","Fio dental",9,"Higiene pessoal",12.29
+60946,"2023-05-31","Rímel",20,"Cosméticos",29.9
+52347,"2023-05-31","Dorflex",9,"Saúde",6.99
+86306,"2023-05-31","Dipirona",8,"Saúde",5.25
+77637,"2023-05-31","Pasta de dente",3,"Higiene pessoal",3.1
+78027,"2023-06-01","Pasta de dente",8,"Higiene pessoal",3.1
+77291,"2023-06-01","Escova de dente",6,"Higiene pessoal",20.73
+33348,"2023-06-01","Dipirona",5,"Saúde",5.25
+78774,"2023-06-02","Esmalte",9,"Cosméticos",2.45
+67586,"2023-06-02","Batom",6,"Cosméticos",15.9
+19122,"2023-06-03","Fio dental",6,"Higiene pessoal",12.29
+68320,"2023-06-03","Esmalte",15,"Cosméticos",2.45
+17249,"2023-06-03","Escova de dente",4,"Higiene pessoal",20.73
+29858,"2023-06-03","Batom",4,"Cosméticos",15.9
+60181,"2023-06-04","Pasta de dente",17,"Higiene pessoal",3.1
+54220,"2023-06-04","Rímel",4,"Cosméticos",29.9
+80741,"2023-06-04","Fio dental",17,"Higiene pessoal",12.29
+142948,"2023-06-04","Dipirona",11,"Saúde",5.25
+68647,"2023-06-04","Dorflex",1,"Saúde",6.99
+48048,"2023-06-04","Esmalte",6,"Cosméticos",2.45
+92896,"2023-06-05","Pasta de dente",5,"Higiene pessoal",3.1
+138868,"2023-06-05","Dipirona",15,"Saúde",5.25
+49473,"2023-06-05","Batom",4,"Cosméticos",15.9
+41380,"2023-06-05","Fio dental",7,"Higiene pessoal",12.29
+33402,"2023-06-05","Escova de dente",3,"Higiene pessoal",20.73
+97518,"2023-06-05","Dorflex",10,"Saúde",6.99
+94369,"2023-06-05","Esmalte",3,"Cosméticos",2.45
+97722,"2023-06-06","Rímel",4,"Cosméticos",29.9
+8964,"2023-06-06","Esmalte",4,"Cosméticos",2.45
+8556,"2023-06-07","Dorflex",9,"Saúde",6.99
+83073,"2023-06-07","Batom",9,"Cosméticos",15.9
+18289,"2023-06-07","Fio dental",10,"Higiene pessoal",12.29
+149072,"2023-06-07","Dipirona",12,"Saúde",5.25
+31503,"2023-06-07","Esmalte",1,"Cosméticos",2.45
+95503,"2023-06-08","Pasta de dente",16,"Higiene pessoal",3.1
+64666,"2023-06-08","Dorflex",5,"Saúde",6.99
+11383,"2023-06-09","Dipirona",3,"Saúde",5.25
+145346,"2023-06-09","Rímel",14,"Cosméticos",29.9
+36142,"2023-06-09","Escova de dente",1,"Higiene pessoal",20.73
+4096,"2023-06-09","Pasta de dente",4,"Higiene pessoal",3.1
+35144,"2023-06-09","Fio dental",2,"Higiene pessoal",12.29
+64027,"2023-06-09","Batom",9,"Cosméticos",15.9
+98329,"2023-06-09","Esmalte",3,"Cosméticos",2.45
+82572,"2023-06-10","Esmalte",8,"Cosméticos",2.45
+68449,"2023-06-10","Rímel",20,"Cosméticos",29.9
+194434,"2023-06-10","Dorflex",7,"Saúde",6.99
+84664,"2023-06-10","Fio dental",7,"Higiene pessoal",12.29
+61966,"2023-06-10","Batom",2,"Cosméticos",15.9
+40235,"2023-06-11","Fio dental",2,"Higiene pessoal",12.29
+88480,"2023-06-11","Escova de dente",4,"Higiene pessoal",20.73
+49477,"2023-06-11","Esmalte",8,"Cosméticos",2.45
+142396,"2023-06-11","Batom",17,"Cosméticos",15.9
+80656,"2023-06-11","Rímel",5,"Cosméticos",29.9
+52086,"2023-06-11","Dorflex",8,"Saúde",6.99
+35419,"2023-06-12","Batom",4,"Cosméticos",15.9
+89585,"2023-06-12","Fio dental",18,"Higiene pessoal",12.29
+112088,"2023-06-12","Rímel",6,"Cosméticos",29.9
+44665,"2023-06-12","Escova de dente",2,"Higiene pessoal",20.73
+85268,"2023-06-12","Dipirona",7,"Saúde",5.25
+59792,"2023-06-12","Dorflex",1,"Saúde",6.99
+28398,"2023-06-13","Esmalte",4,"Cosméticos",2.45
+69548,"2023-06-13","Pasta de dente",8,"Higiene pessoal",3.1
+22064,"2023-06-13","Fio dental",3,"Higiene pessoal",12.29
+25119,"2023-06-13","Dorflex",10,"Saúde",6.99
+27996,"2023-06-14","Pasta de dente",2,"Higiene pessoal",3.1
+83517,"2023-06-14","Fio dental",1,"Higiene pessoal",12.29
+106892,"2023-06-15","Esmalte",19,"Cosméticos",2.45
+67269,"2023-06-15","Dorflex",8,"Saúde",6.99
+19687,"2023-06-15","Batom",6,"Cosméticos",15.9
+78726,"2023-06-15","Fio dental",7,"Higiene pessoal",12.29
+164516,"2023-06-16","Fio dental",12,"Higiene pessoal",12.29
+10854,"2023-06-16","Esmalte",4,"Cosméticos",2.45
+68966,"2023-06-16","Rímel",10,"Cosméticos",29.9
+90384,"2023-06-16","Dorflex",1,"Saúde",6.99
+19515,"2023-06-17","Escova de dente",3,"Higiene pessoal",20.73
+92677,"2023-06-17","Esmalte",10,"Cosméticos",2.45
+107209,"2023-06-17","Fio dental",5,"Higiene pessoal",12.29
+78886,"2023-06-17","Dorflex",6,"Saúde",6.99
+57786,"2023-06-17","Batom",1,"Cosméticos",15.9
+44605,"2023-06-18","Batom",6,"Cosméticos",15.9
+57056,"2023-06-18","Fio dental",3,"Higiene pessoal",12.29
+75016,"2023-06-18","Esmalte",3,"Cosméticos",2.45
+178525,"2023-06-18","Dorflex",9,"Saúde",6.99
+40822,"2023-06-18","Dipirona",5,"Saúde",5.25
+32774,"2023-06-19","Esmalte",4,"Cosméticos",2.45
+9339,"2023-06-20","Rímel",4,"Cosméticos",29.9
+3934,"2023-06-20","Fio dental",4,"Higiene pessoal",12.29
+254363,"2023-06-20","Pasta de dente",12,"Higiene pessoal",3.1
+165959,"2023-06-20","Dipirona",7,"Saúde",5.25
+76765,"2023-06-20","Esmalte",1,"Cosméticos",2.45
+75283,"2023-06-21","Escova de dente",3,"Higiene pessoal",20.73
+67209,"2023-06-21","Dipirona",3,"Saúde",5.25
+192001,"2023-06-22","Dorflex",11,"Saúde",6.99
+198009,"2023-06-22","Pasta de dente",6,"Higiene pessoal",3.1
+86886,"2023-06-22","Dipirona",5,"Saúde",5.25
+66207,"2023-06-22","Rímel",10,"Cosméticos",29.9
+95137,"2023-06-22","Batom",13,"Cosméticos",15.9
+9997,"2023-06-22","Fio dental",9,"Higiene pessoal",12.29
+22185,"2023-06-23","Fio dental",4,"Higiene pessoal",12.29
+50967,"2023-06-23","Batom",4,"Cosméticos",15.9
+165679,"2023-06-23","Pasta de dente",10,"Higiene pessoal",3.1
+55386,"2023-06-23","Esmalte",8,"Cosméticos",2.45
+72272,"2023-06-23","Rímel",6,"Cosméticos",29.9
+100489,"2023-06-24","Dipirona",10,"Saúde",5.25
+34363,"2023-06-24","Escova de dente",15,"Higiene pessoal",20.73
+37354,"2023-06-24","Dorflex",9,"Saúde",6.99
+72837,"2023-06-24","Fio dental",7,"Higiene pessoal",12.29
+7220,"2023-06-24","Rímel",10,"Cosméticos",29.9
+4388,"2023-06-24","Batom",8,"Cosméticos",15.9
+199366,"2023-06-25","Pasta de dente",24,"Higiene pessoal",3.1
+86798,"2023-06-25","Esmalte",3,"Cosméticos",2.45
+139517,"2023-06-26","Escova de dente",10,"Higiene pessoal",20.73
+106494,"2023-06-26","Rímel",12,"Cosméticos",29.9
+36795,"2023-06-26","Esmalte",10,"Cosméticos",2.45
+12088,"2023-06-26","Batom",2,"Cosméticos",15.9
+19253,"2023-06-27","Dipirona",10,"Saúde",5.25
+48729,"2023-06-27","Escova de dente",10,"Higiene pessoal",20.73
+8706,"2023-06-27","Fio dental",9,"Higiene pessoal",12.29
+129093,"2023-06-27","Batom",7,"Cosméticos",15.9
+66645,"2023-06-27","Rímel",5,"Cosméticos",29.9
+65290,"2023-06-28","Escova de dente",5,"Higiene pessoal",20.73
+93120,"2023-06-28","Dorflex",1,"Saúde",6.99
+96569,"2023-06-29","Pasta de dente",9,"Higiene pessoal",3.1
+68963,"2023-06-30","Escova de dente",2,"Higiene pessoal",20.73
+124021,"2023-06-30","Dipirona",10,"Saúde",5.25
+65088,"2023-06-30","Dorflex",2,"Saúde",6.99
+76863,"2023-06-30","Pasta de dente",7,"Higiene pessoal",3.1
+71332,"2023-06-30","Esmalte",8,"Cosméticos",2.45
+143222,"2023-07-01","Dipirona",13,"Saúde",5.25
+23701,"2023-07-01","Pasta de dente",14,"Higiene pessoal",3.1
+81685,"2023-07-01","Dorflex",8,"Saúde",6.99
+73761,"2023-07-01","Escova de dente",6,"Higiene pessoal",20.73
+98596,"2023-07-02","Escova de dente",10,"Higiene pessoal",20.73
+15353,"2023-07-02","Batom",1,"Cosméticos",15.9
+86624,"2023-07-02","Dipirona",5,"Saúde",5.25
+161,"2023-07-02","Rímel",7,"Cosméticos",29.9
+37807,"2023-07-03","Rímel",6,"Cosméticos",29.9
+158781,"2023-07-03","Fio dental",12,"Higiene pessoal",12.29
+53440,"2023-07-03","Pasta de dente",5,"Higiene pessoal",3.1
+64733,"2023-07-03","Batom",5,"Cosméticos",15.9
+70223,"2023-07-03","Escova de dente",7,"Higiene pessoal",20.73
+187523,"2023-07-03","Dorflex",14,"Saúde",6.99
+62022,"2023-07-03","Esmalte",7,"Cosméticos",2.45
+76448,"2023-07-04","Esmalte",9,"Cosméticos",2.45
+87104,"2023-07-04","Batom",4,"Cosméticos",15.9
+22215,"2023-07-04","Escova de dente",10,"Higiene pessoal",20.73
+108584,"2023-07-04","Rímel",6,"Cosméticos",29.9
+17103,"2023-07-04","Pasta de dente",8,"Higiene pessoal",3.1
+41695,"2023-07-05","Dorflex",8,"Saúde",6.99
+109173,"2023-07-05","Escova de dente",15,"Higiene pessoal",20.73
+51402,"2023-07-05","Pasta de dente",10,"Higiene pessoal",3.1
+37683,"2023-07-05","Dipirona",10,"Saúde",5.25
+56315,"2023-07-06","Dorflex",5,"Saúde",6.99
+25304,"2023-07-06","Esmalte",8,"Cosméticos",2.45
+58926,"2023-07-06","Dipirona",10,"Saúde",5.25
+108237,"2023-07-06","Fio dental",22,"Higiene pessoal",12.29
+94714,"2023-07-06","Pasta de dente",7,"Higiene pessoal",3.1
+44870,"2023-07-07","Dorflex",6,"Saúde",6.99
+26798,"2023-07-07","Esmalte",1,"Cosméticos",2.45
+69817,"2023-07-08","Dorflex",5,"Saúde",6.99
+164540,"2023-07-08","Rímel",9,"Cosméticos",29.9
+41309,"2023-07-08","Escova de dente",6,"Higiene pessoal",20.73
+10288,"2023-07-08","Batom",7,"Cosméticos",15.9
+66306,"2023-07-09","Batom",10,"Cosméticos",15.9
+49673,"2023-07-10","Batom",13,"Cosméticos",15.9
+185644,"2023-07-10","Esmalte",23,"Cosméticos",2.45
+80660,"2023-07-10","Dipirona",8,"Saúde",5.25
+39053,"2023-07-10","Escova de dente",9,"Higiene pessoal",20.73
+171742,"2023-07-11","Fio dental",20,"Higiene pessoal",12.29
+153361,"2023-07-11","Esmalte",21,"Cosméticos",2.45
+207913,"2023-07-11","Dipirona",21,"Saúde",5.25
+22592,"2023-07-11","Pasta de dente",5,"Higiene pessoal",3.1
+30974,"2023-07-12","Fio dental",1,"Higiene pessoal",12.29
+163099,"2023-07-12","Dorflex",11,"Saúde",6.99
+19093,"2023-07-12","Dipirona",5,"Saúde",5.25
+65860,"2023-07-12","Esmalte",4,"Cosméticos",2.45
+53188,"2023-07-12","Batom",2,"Cosméticos",15.9
+81262,"2023-07-12","Escova de dente",3,"Higiene pessoal",20.73
+29485,"2023-07-13","Dorflex",6,"Saúde",6.99
+82851,"2023-07-13","Fio dental",8,"Higiene pessoal",12.29
+56699,"2023-07-13","Rímel",9,"Cosméticos",29.9
+87550,"2023-07-14","Batom",10,"Cosméticos",15.9
+90701,"2023-07-14","Dorflex",3,"Saúde",6.99
+68482,"2023-07-14","Fio dental",9,"Higiene pessoal",12.29
+58506,"2023-07-15","Batom",8,"Cosméticos",15.9
+131475,"2023-07-15","Rímel",5,"Cosméticos",29.9
+33703,"2023-07-15","Dipirona",4,"Saúde",5.25
+73628,"2023-07-15","Esmalte",8,"Cosméticos",2.45
+33174,"2023-07-16","Fio dental",8,"Higiene pessoal",12.29
+58432,"2023-07-17","Escova de dente",10,"Higiene pessoal",20.73
+86700,"2023-07-17","Dorflex",16,"Saúde",6.99
+22594,"2023-07-17","Fio dental",4,"Higiene pessoal",12.29
+48827,"2023-07-17","Esmalte",4,"Cosméticos",2.45
+106208,"2023-07-17","Rímel",18,"Cosméticos",29.9
+190343,"2023-07-18","Fio dental",6,"Higiene pessoal",12.29
+39800,"2023-07-18","Batom",20,"Cosméticos",15.9
+58400,"2023-07-18","Esmalte",10,"Cosméticos",2.45
+87005,"2023-07-18","Dipirona",5,"Saúde",5.25
+23636,"2023-07-18","Escova de dente",6,"Higiene pessoal",20.73
+52222,"2023-07-19","Esmalte",7,"Cosméticos",2.45
+76864,"2023-07-19","Dorflex",2,"Saúde",6.99
+40120,"2023-07-19","Pasta de dente",1,"Higiene pessoal",3.1
+36582,"2023-07-20","Fio dental",2,"Higiene pessoal",12.29
+35109,"2023-07-20","Dorflex",3,"Saúde",6.99
+150746,"2023-07-20","Escova de dente",7,"Higiene pessoal",20.73
+19050,"2023-07-20","Rímel",3,"Cosméticos",29.9
+82311,"2023-07-21","Dorflex",7,"Saúde",6.99
+86687,"2023-07-21","Batom",10,"Cosméticos",15.9
+65326,"2023-07-21","Escova de dente",7,"Higiene pessoal",20.73
+3465,"2023-07-21","Fio dental",10,"Higiene pessoal",12.29
+80783,"2023-07-22","Esmalte",14,"Cosméticos",2.45
+44051,"2023-07-22","Rímel",1,"Cosméticos",29.9
+62845,"2023-07-22","Dipirona",7,"Saúde",5.25
+22443,"2023-07-22","Escova de dente",7,"Higiene pessoal",20.73
+54280,"2023-07-22","Batom",7,"Cosméticos",15.9
+15524,"2023-07-23","Rímel",7,"Cosméticos",29.9
+67157,"2023-07-23","Fio dental",8,"Higiene pessoal",12.29
+13010,"2023-07-23","Esmalte",3,"Cosméticos",2.45
+45822,"2023-07-23","Batom",20,"Cosméticos",15.9
+36250,"2023-07-23","Escova de dente",16,"Higiene pessoal",20.73
+85281,"2023-07-24","Pasta de dente",10,"Higiene pessoal",3.1
+43261,"2023-07-24","Batom",10,"Cosméticos",15.9
+124816,"2023-07-25","Fio dental",12,"Higiene pessoal",12.29
+20708,"2023-07-25","Dipirona",7,"Saúde",5.25
+123352,"2023-07-25","Pasta de dente",12,"Higiene pessoal",3.1
+51976,"2023-07-25","Dorflex",2,"Saúde",6.99
+4874,"2023-07-25","Esmalte",5,"Cosméticos",2.45
+97046,"2023-07-25","Rímel",7,"Cosméticos",29.9
+80176,"2023-07-25","Batom",10,"Cosméticos",15.9
+68915,"2023-07-26","Esmalte",8,"Cosméticos",2.45
+78394,"2023-07-26","Batom",8,"Cosméticos",15.9
+50515,"2023-07-26","Escova de dente",8,"Higiene pessoal",20.73
+114779,"2023-07-27","Fio dental",5,"Higiene pessoal",12.29
+20504,"2023-07-27","Dipirona",2,"Saúde",5.25
+109270,"2023-07-27","Dorflex",8,"Saúde",6.99
+48876,"2023-07-27","Escova de dente",10,"Higiene pessoal",20.73
+52271,"2023-07-27","Pasta de dente",6,"Higiene pessoal",3.1
+159085,"2023-07-28","Pasta de dente",12,"Higiene pessoal",3.1
+10584,"2023-07-28","Esmalte",10,"Cosméticos",2.45
+110553,"2023-07-28","Rímel",23,"Cosméticos",29.9
+65657,"2023-07-28","Batom",8,"Cosméticos",15.9
+99343,"2023-07-28","Dorflex",1,"Saúde",6.99
+187785,"2023-07-29","Esmalte",13,"Cosméticos",2.45
+77159,"2023-07-29","Rímel",13,"Cosméticos",29.9
+60401,"2023-07-30","Pasta de dente",7,"Higiene pessoal",3.1
+49781,"2023-07-30","Dorflex",6,"Saúde",6.99
+29153,"2023-07-30","Escova de dente",8,"Higiene pessoal",20.73
+86489,"2023-07-30","Esmalte",9,"Cosméticos",2.45
+37438,"2023-07-30","Batom",10,"Cosméticos",15.9
+60888,"2023-07-30","Dipirona",9,"Saúde",5.25
+8832,"2023-07-31","Escova de dente",7,"Higiene pessoal",20.73
+166041,"2023-07-31","Pasta de dente",13,"Higiene pessoal",3.1
+97872,"2023-08-01","Batom",8,"Cosméticos",15.9
+91919,"2023-08-02","Esmalte",1,"Cosméticos",2.45
+77183,"2023-08-03","Escova de dente",1,"Higiene pessoal",20.73
+53309,"2023-08-03","Pasta de dente",15,"Higiene pessoal",3.1
+69925,"2023-08-03","Dorflex",17,"Saúde",6.99
+80762,"2023-08-03","Rímel",3,"Cosméticos",29.9
+49862,"2023-08-03","Dipirona",9,"Saúde",5.25
+4904,"2023-08-04","Esmalte",8,"Cosméticos",2.45
+96406,"2023-08-04","Pasta de dente",3,"Higiene pessoal",3.1
+12877,"2023-08-04","Batom",13,"Cosméticos",15.9
+4020,"2023-08-04","Dipirona",3,"Saúde",5.25
+63987,"2023-08-05","Rímel",12,"Cosméticos",29.9
+112550,"2023-08-05","Esmalte",14,"Cosméticos",2.45
+61914,"2023-08-05","Pasta de dente",3,"Higiene pessoal",3.1
+83269,"2023-08-05","Dorflex",10,"Saúde",6.99
+40706,"2023-08-05","Batom",3,"Cosméticos",15.9
+68927,"2023-08-05","Escova de dente",3,"Higiene pessoal",20.73
+135043,"2023-08-06","Escova de dente",13,"Higiene pessoal",20.73
+47768,"2023-08-06","Rímel",5,"Cosméticos",29.9
+169392,"2023-08-06","Dipirona",22,"Saúde",5.25
+67337,"2023-08-07","Batom",1,"Cosméticos",15.9
+28117,"2023-08-07","Escova de dente",12,"Higiene pessoal",20.73
+38498,"2023-08-07","Dorflex",10,"Saúde",6.99
+186132,"2023-08-08","Rímel",16,"Cosméticos",29.9
+34602,"2023-08-08","Esmalte",2,"Cosméticos",2.45
+101262,"2023-08-08","Pasta de dente",4,"Higiene pessoal",3.1
+83602,"2023-08-08","Fio dental",8,"Higiene pessoal",12.29
+89396,"2023-08-08","Escova de dente",9,"Higiene pessoal",20.73
+1018,"2023-08-08","Batom",6,"Cosméticos",15.9
+79539,"2023-08-09","Rímel",6,"Cosméticos",29.9
+176553,"2023-08-09","Dipirona",15,"Saúde",5.25
+93208,"2023-08-10","Dorflex",7,"Saúde",6.99
+33968,"2023-08-11","Dipirona",1,"Saúde",5.25
+176523,"2023-08-11","Rímel",28,"Cosméticos",29.9
+2246,"2023-08-11","Escova de dente",3,"Higiene pessoal",20.73
+16492,"2023-08-11","Esmalte",2,"Cosméticos",2.45
+46542,"2023-08-11","Fio dental",11,"Higiene pessoal",12.29
+57563,"2023-08-12","Batom",4,"Cosméticos",15.9
+106007,"2023-08-12","Rímel",10,"Cosméticos",29.9
+95726,"2023-08-12","Dorflex",6,"Saúde",6.99
+95193,"2023-08-12","Dipirona",8,"Saúde",5.25
+78316,"2023-08-12","Pasta de dente",9,"Higiene pessoal",3.1
+30538,"2023-08-13","Pasta de dente",1,"Higiene pessoal",3.1
+116237,"2023-08-13","Rímel",17,"Cosméticos",29.9
+22444,"2023-08-13","Dipirona",7,"Saúde",5.25
+137019,"2023-08-13","Dorflex",6,"Saúde",6.99
+46358,"2023-08-13","Escova de dente",4,"Higiene pessoal",20.73
+51345,"2023-08-14","Pasta de dente",3,"Higiene pessoal",3.1
+44560,"2023-08-14","Dipirona",1,"Saúde",5.25
+15713,"2023-08-14","Fio dental",9,"Higiene pessoal",12.29
+54907,"2023-08-15","Escova de dente",8,"Higiene pessoal",20.73
+39779,"2023-08-15","Esmalte",2,"Cosméticos",2.45
+73204,"2023-08-15","Batom",7,"Cosméticos",15.9
+156009,"2023-08-16","Batom",11,"Cosméticos",15.9
+30482,"2023-08-16","Fio dental",6,"Higiene pessoal",12.29
+57200,"2023-08-16","Rímel",6,"Cosméticos",29.9
+5278,"2023-08-16","Esmalte",7,"Cosméticos",2.45
+57707,"2023-08-16","Dorflex",3,"Saúde",6.99
+65922,"2023-08-16","Pasta de dente",5,"Higiene pessoal",3.1
+15476,"2023-08-16","Dipirona",2,"Saúde",5.25
+82016,"2023-08-16","Escova de dente",2,"Higiene pessoal",20.73
+78347,"2023-08-17","Fio dental",6,"Higiene pessoal",12.29
+95950,"2023-08-17","Dipirona",8,"Saúde",5.25
+114428,"2023-08-18","Dorflex",12,"Saúde",6.99
+49295,"2023-08-18","Fio dental",9,"Higiene pessoal",12.29
+54765,"2023-08-18","Esmalte",3,"Cosméticos",2.45
+65608,"2023-08-18","Escova de dente",8,"Higiene pessoal",20.73
+26651,"2023-08-18","Batom",4,"Cosméticos",15.9
+77077,"2023-08-19","Dorflex",1,"Saúde",6.99
+57963,"2023-08-19","Fio dental",4,"Higiene pessoal",12.29
+4771,"2023-08-19","Rímel",9,"Cosméticos",29.9
+108935,"2023-08-20","Fio dental",6,"Higiene pessoal",12.29
+215279,"2023-08-20","Escova de dente",15,"Higiene pessoal",20.73
+96836,"2023-08-20","Esmalte",3,"Cosméticos",2.45
+81985,"2023-08-20","Pasta de dente",9,"Higiene pessoal",3.1
+95299,"2023-08-21","Rímel",1,"Cosméticos",29.9
+86945,"2023-08-21","Dorflex",10,"Saúde",6.99
+94738,"2023-08-21","Dipirona",15,"Saúde",5.25
+51486,"2023-08-21","Pasta de dente",1,"Higiene pessoal",3.1
+50443,"2023-08-21","Escova de dente",9,"Higiene pessoal",20.73
+15579,"2023-08-21","Esmalte",6,"Cosméticos",2.45
+42221,"2023-08-22","Batom",4,"Cosméticos",15.9
+32871,"2023-08-22","Escova de dente",8,"Higiene pessoal",20.73
+95131,"2023-08-22","Dipirona",1,"Saúde",5.25
+150604,"2023-08-23","Dipirona",24,"Saúde",5.25
+115152,"2023-08-23","Pasta de dente",9,"Higiene pessoal",3.1
+146444,"2023-08-23","Dorflex",6,"Saúde",6.99
+100959,"2023-08-23","Batom",10,"Cosméticos",15.9
+52606,"2023-08-23","Esmalte",9,"Cosméticos",2.45
+78066,"2023-08-24","Pasta de dente",10,"Higiene pessoal",3.1
+19793,"2023-08-24","Fio dental",8,"Higiene pessoal",12.29
+83111,"2023-08-24","Rímel",13,"Cosméticos",29.9
+62056,"2023-08-24","Dorflex",7,"Saúde",6.99
+151724,"2023-08-24","Batom",13,"Cosméticos",15.9
+60660,"2023-08-24","Dipirona",1,"Saúde",5.25
+7134,"2023-08-24","Escova de dente",3,"Higiene pessoal",20.73
+245,"2023-08-25","Rímel",8,"Cosméticos",29.9
+67489,"2023-08-26","Escova de dente",11,"Higiene pessoal",20.73
+60067,"2023-08-26","Pasta de dente",7,"Higiene pessoal",3.1
+26272,"2023-08-26","Dorflex",1,"Saúde",6.99
+16115,"2023-08-27","Dipirona",7,"Saúde",5.25
+98415,"2023-08-27","Fio dental",13,"Higiene pessoal",12.29
+76929,"2023-08-27","Rímel",10,"Cosméticos",29.9
+17368,"2023-08-27","Esmalte",5,"Cosméticos",2.45
+76247,"2023-08-28","Pasta de dente",7,"Higiene pessoal",3.1
+48799,"2023-08-28","Dipirona",4,"Saúde",5.25
+220364,"2023-08-28","Escova de dente",24,"Higiene pessoal",20.73
+22059,"2023-08-28","Rímel",7,"Cosméticos",29.9
+26891,"2023-08-29","Esmalte",2,"Cosméticos",2.45
+46763,"2023-08-29","Rímel",5,"Cosméticos",29.9
+141581,"2023-08-29","Escova de dente",3,"Higiene pessoal",20.73
+16871,"2023-08-29","Dipirona",5,"Saúde",5.25
+117990,"2023-08-29","Pasta de dente",16,"Higiene pessoal",3.1
+63932,"2023-08-30","Dipirona",3,"Saúde",5.25
+75876,"2023-08-31","Pasta de dente",12,"Higiene pessoal",3.1
+16849,"2023-08-31","Esmalte",10,"Cosméticos",2.45
+53145,"2023-08-31","Batom",3,"Cosméticos",15.9
+109095,"2023-08-31","Dorflex",14,"Saúde",6.99
+68079,"2023-08-31","Rímel",3,"Cosméticos",29.9
+90019,"2023-08-31","Escova de dente",3,"Higiene pessoal",20.73
+65915,"2023-09-01","Esmalte",11,"Cosméticos",2.45
+74000,"2023-09-01","Dipirona",5,"Saúde",5.25
+54121,"2023-09-01","Batom",1,"Cosméticos",15.9
+78390,"2023-09-01","Rímel",14,"Cosméticos",29.9
+35382,"2023-09-02","Esmalte",5,"Cosméticos",2.45
+95798,"2023-09-02","Dipirona",3,"Saúde",5.25
+18146,"2023-09-02","Batom",8,"Cosméticos",15.9
+28779,"2023-09-02","Fio dental",7,"Higiene pessoal",12.29
+9067,"2023-09-03","Rímel",2,"Cosméticos",29.9
+56273,"2023-09-04","Escova de dente",4,"Higiene pessoal",20.73
+64132,"2023-09-04","Rímel",6,"Cosméticos",29.9
+66972,"2023-09-04","Pasta de dente",2,"Higiene pessoal",3.1
+82748,"2023-09-05","Dipirona",1,"Saúde",5.25
+279881,"2023-09-05","Esmalte",28,"Cosméticos",2.45
+40886,"2023-09-05","Escova de dente",5,"Higiene pessoal",20.73
+69274,"2023-09-06","Dipirona",6,"Saúde",5.25
+137535,"2023-09-06","Fio dental",4,"Higiene pessoal",12.29
+37633,"2023-09-06","Dorflex",2,"Saúde",6.99
+90746,"2023-09-06","Rímel",7,"Cosméticos",29.9
+86198,"2023-09-06","Pasta de dente",4,"Higiene pessoal",3.1
+79321,"2023-09-07","Batom",5,"Cosméticos",15.9
+57343,"2023-09-07","Escova de dente",16,"Higiene pessoal",20.73
+63444,"2023-09-07","Fio dental",5,"Higiene pessoal",12.29
+78267,"2023-09-07","Dipirona",2,"Saúde",5.25
+98508,"2023-09-08","Fio dental",10,"Higiene pessoal",12.29
+57637,"2023-09-08","Dipirona",7,"Saúde",5.25
+65389,"2023-09-08","Dorflex",1,"Saúde",6.99
+1655,"2023-09-08","Pasta de dente",9,"Higiene pessoal",3.1
+24421,"2023-09-08","Batom",5,"Cosméticos",15.9
+119192,"2023-09-08","Escova de dente",16,"Higiene pessoal",20.73
+33810,"2023-09-08","Rímel",4,"Cosméticos",29.9
+32207,"2023-09-09","Escova de dente",6,"Higiene pessoal",20.73
+47568,"2023-09-09","Dorflex",8,"Saúde",6.99
+33442,"2023-09-09","Pasta de dente",6,"Higiene pessoal",3.1
+4802,"2023-09-09","Batom",8,"Cosméticos",15.9
+59184,"2023-09-10","Batom",8,"Cosméticos",15.9
+828,"2023-09-10","Fio dental",6,"Higiene pessoal",12.29
+81690,"2023-09-10","Dipirona",3,"Saúde",5.25
+24176,"2023-09-10","Esmalte",4,"Cosméticos",2.45
+5256,"2023-09-10","Escova de dente",5,"Higiene pessoal",20.73
+36766,"2023-09-11","Dorflex",9,"Saúde",6.99
+65351,"2023-09-11","Dipirona",7,"Saúde",5.25
+2272,"2023-09-11","Escova de dente",1,"Higiene pessoal",20.73
+96962,"2023-09-11","Fio dental",8,"Higiene pessoal",12.29
+91298,"2023-09-12","Esmalte",10,"Cosméticos",2.45
+57016,"2023-09-12","Dipirona",10,"Saúde",5.25
+110643,"2023-09-12","Dorflex",16,"Saúde",6.99
+87965,"2023-09-13","Dipirona",10,"Saúde",5.25
+29636,"2023-09-13","Fio dental",9,"Higiene pessoal",12.29
+30603,"2023-09-13","Escova de dente",6,"Higiene pessoal",20.73
+70087,"2023-09-14","Escova de dente",9,"Higiene pessoal",20.73
+92321,"2023-09-15","Escova de dente",8,"Higiene pessoal",20.73
+19156,"2023-09-15","Batom",12,"Cosméticos",15.9
+19973,"2023-09-15","Rímel",7,"Cosméticos",29.9
+70525,"2023-09-15","Pasta de dente",18,"Higiene pessoal",3.1
+44320,"2023-09-15","Dorflex",2,"Saúde",6.99
+124698,"2023-09-16","Pasta de dente",10,"Higiene pessoal",3.1
+53093,"2023-09-16","Dipirona",10,"Saúde",5.25
+95535,"2023-09-16","Rímel",1,"Cosméticos",29.9
+66826,"2023-09-17","Dorflex",10,"Saúde",6.99
+128552,"2023-09-17","Rímel",10,"Cosméticos",29.9
+35532,"2023-09-18","Dorflex",3,"Saúde",6.99
+84053,"2023-09-19","Dorflex",8,"Saúde",6.99
+42865,"2023-09-19","Fio dental",4,"Higiene pessoal",12.29
+139237,"2023-09-19","Pasta de dente",14,"Higiene pessoal",3.1
+34086,"2023-09-19","Rímel",8,"Cosméticos",29.9
+78132,"2023-09-19","Dipirona",12,"Saúde",5.25
+156325,"2023-09-20","Fio dental",10,"Higiene pessoal",12.29
+99806,"2023-09-20","Esmalte",9,"Cosméticos",2.45
+152963,"2023-09-20","Batom",15,"Cosméticos",15.9
+40335,"2023-09-20","Dipirona",7,"Saúde",5.25
+95020,"2023-09-20","Rímel",4,"Cosméticos",29.9
+56055,"2023-09-21","Pasta de dente",9,"Higiene pessoal",3.1
+81335,"2023-09-21","Rímel",14,"Cosméticos",29.9
+62776,"2023-09-21","Esmalte",8,"Cosméticos",2.45
+51888,"2023-09-22","Dorflex",3,"Saúde",6.99
+33136,"2023-09-22","Fio dental",7,"Higiene pessoal",12.29
+85236,"2023-09-23","Rímel",8,"Cosméticos",29.9
+76475,"2023-09-24","Batom",4,"Cosméticos",15.9
+167359,"2023-09-24","Dorflex",21,"Saúde",6.99
+61619,"2023-09-24","Rímel",10,"Cosméticos",29.9
+52040,"2023-09-24","Dipirona",9,"Saúde",5.25
+39418,"2023-09-24","Fio dental",3,"Higiene pessoal",12.29
+93444,"2023-09-25","Fio dental",8,"Higiene pessoal",12.29
+85622,"2023-09-25","Dorflex",15,"Saúde",6.99
+57604,"2023-09-25","Esmalte",8,"Cosméticos",2.45
+72159,"2023-09-25","Batom",10,"Cosméticos",15.9
+95687,"2023-09-25","Escova de dente",6,"Higiene pessoal",20.73
+82942,"2023-09-26","Rímel",12,"Cosméticos",29.9
+68937,"2023-09-26","Escova de dente",10,"Higiene pessoal",20.73
+96928,"2023-09-26","Batom",3,"Cosméticos",15.9
+1240,"2023-09-26","Fio dental",6,"Higiene pessoal",12.29
+8695,"2023-09-27","Rímel",4,"Cosméticos",29.9
+72357,"2023-09-27","Batom",6,"Cosméticos",15.9
+96987,"2023-09-27","Fio dental",3,"Higiene pessoal",12.29
+646,"2023-09-27","Escova de dente",4,"Higiene pessoal",20.73
+73755,"2023-09-27","Dipirona",5,"Saúde",5.25
+96422,"2023-09-27","Esmalte",3,"Cosméticos",2.45
+18462,"2023-09-27","Dorflex",7,"Saúde",6.99
+156993,"2023-09-28","Escova de dente",17,"Higiene pessoal",20.73
+114543,"2023-09-28","Batom",12,"Cosméticos",15.9
+95296,"2023-09-28","Dorflex",4,"Saúde",6.99
+79105,"2023-09-29","Escova de dente",7,"Higiene pessoal",20.73
+65596,"2023-09-30","Escova de dente",4,"Higiene pessoal",20.73
+5728,"2023-09-30","Fio dental",5,"Higiene pessoal",12.29
+26591,"2023-09-30","Rímel",8,"Cosméticos",29.9
+63729,"2023-10-01","Dipirona",4,"Saúde",5.25
+43946,"2023-10-01","Rímel",9,"Cosméticos",29.9
+63162,"2023-10-01","Batom",6,"Cosméticos",15.9
+74730,"2023-10-02","Escova de dente",7,"Higiene pessoal",20.73
+89304,"2023-10-02","Dorflex",2,"Saúde",6.99
+179074,"2023-10-03","Pasta de dente",13,"Higiene pessoal",3.1
+159383,"2023-10-04","Dorflex",15,"Saúde",6.99
+131921,"2023-10-04","Dipirona",14,"Saúde",5.25
+57435,"2023-10-04","Rímel",10,"Cosméticos",29.9
+61880,"2023-10-04","Fio dental",14,"Higiene pessoal",12.29
+50040,"2023-10-05","Dorflex",3,"Saúde",6.99
+80498,"2023-10-05","Pasta de dente",5,"Higiene pessoal",3.1
+107695,"2023-10-05","Escova de dente",17,"Higiene pessoal",20.73
+19734,"2023-10-05","Esmalte",4,"Cosméticos",2.45
+45725,"2023-10-05","Rímel",4,"Cosméticos",29.9
+21769,"2023-10-05","Dipirona",4,"Saúde",5.25
+132685,"2023-10-06","Pasta de dente",16,"Higiene pessoal",3.1
+63199,"2023-10-06","Batom",5,"Cosméticos",15.9
+7350,"2023-10-06","Dipirona",2,"Saúde",5.25
+40110,"2023-10-06","Dorflex",7,"Saúde",6.99
+83857,"2023-10-06","Esmalte",5,"Cosméticos",2.45
+45878,"2023-10-07","Fio dental",10,"Higiene pessoal",12.29
+127244,"2023-10-07","Rímel",15,"Cosméticos",29.9
+11198,"2023-10-07","Dorflex",4,"Saúde",6.99
+6743,"2023-10-08","Dipirona",1,"Saúde",5.25
+56399,"2023-10-08","Dorflex",10,"Saúde",6.99
+165111,"2023-10-08","Rímel",6,"Cosméticos",29.9
+91001,"2023-10-08","Batom",1,"Cosméticos",15.9
+46980,"2023-10-09","Pasta de dente",3,"Higiene pessoal",3.1
+56141,"2023-10-10","Fio dental",10,"Higiene pessoal",12.29
+70752,"2023-10-11","Dorflex",9,"Saúde",6.99
+25889,"2023-10-11","Batom",4,"Cosméticos",15.9
+99434,"2023-10-11","Fio dental",9,"Higiene pessoal",12.29
+174781,"2023-10-12","Rímel",21,"Cosméticos",29.9
+6912,"2023-10-12","Pasta de dente",5,"Higiene pessoal",3.1
+145068,"2023-10-12","Dorflex",5,"Saúde",6.99
+84859,"2023-10-12","Dipirona",3,"Saúde",5.25
+35687,"2023-10-12","Fio dental",7,"Higiene pessoal",12.29
+142235,"2023-10-13","Batom",18,"Cosméticos",15.9
+215964,"2023-10-13","Pasta de dente",17,"Higiene pessoal",3.1
+119816,"2023-10-13","Esmalte",11,"Cosméticos",2.45
+84350,"2023-10-13","Rímel",8,"Cosméticos",29.9
+37196,"2023-10-13","Dipirona",7,"Saúde",5.25
+94151,"2023-10-14","Pasta de dente",15,"Higiene pessoal",3.1
+77862,"2023-10-14","Rímel",3,"Cosméticos",29.9
+132785,"2023-10-14","Dipirona",14,"Saúde",5.25
+81904,"2023-10-14","Escova de dente",5,"Higiene pessoal",20.73
+45256,"2023-10-14","Dorflex",4,"Saúde",6.99
+65768,"2023-10-15","Dorflex",8,"Saúde",6.99
+176974,"2023-10-15","Pasta de dente",14,"Higiene pessoal",3.1
+111182,"2023-10-15","Fio dental",20,"Higiene pessoal",12.29
+111427,"2023-10-15","Batom",28,"Cosméticos",15.9
+4288,"2023-10-15","Rímel",6,"Cosméticos",29.9
+24308,"2023-10-16","Rímel",2,"Cosméticos",29.9
+173095,"2023-10-16","Esmalte",3,"Cosméticos",2.45
+74418,"2023-10-16","Pasta de dente",8,"Higiene pessoal",3.1
+59661,"2023-10-16","Dorflex",16,"Saúde",6.99
+37246,"2023-10-16","Escova de dente",6,"Higiene pessoal",20.73
+26734,"2023-10-16","Dipirona",8,"Saúde",5.25
+43959,"2023-10-17","Dipirona",4,"Saúde",5.25
+34903,"2023-10-17","Fio dental",1,"Higiene pessoal",12.29
+2992,"2023-10-17","Esmalte",4,"Cosméticos",2.45
+91935,"2023-10-17","Escova de dente",9,"Higiene pessoal",20.73
+56611,"2023-10-18","Pasta de dente",8,"Higiene pessoal",3.1
+94112,"2023-10-18","Rímel",10,"Cosméticos",29.9
+46534,"2023-10-18","Escova de dente",2,"Higiene pessoal",20.73
+149823,"2023-10-19","Batom",32,"Cosméticos",15.9
+89680,"2023-10-19","Rímel",10,"Cosméticos",29.9
+34617,"2023-10-20","Esmalte",6,"Cosméticos",2.45
+2804,"2023-10-21","Dorflex",9,"Saúde",6.99
+27784,"2023-10-21","Rímel",3,"Cosméticos",29.9
+62806,"2023-10-21","Esmalte",5,"Cosméticos",2.45
+82646,"2023-10-21","Batom",3,"Cosméticos",15.9
+75124,"2023-10-22","Rímel",2,"Cosméticos",29.9
+21693,"2023-10-22","Batom",10,"Cosméticos",15.9
+78047,"2023-10-22","Esmalte",10,"Cosméticos",2.45
+71641,"2023-10-23","Dipirona",7,"Saúde",5.25
+121051,"2023-10-24","Fio dental",8,"Higiene pessoal",12.29
+98259,"2023-10-24","Esmalte",4,"Cosméticos",2.45
+126279,"2023-10-24","Dipirona",26,"Saúde",5.25
+89322,"2023-10-24","Rímel",6,"Cosméticos",29.9
+80818,"2023-10-24","Batom",8,"Cosméticos",15.9
+77824,"2023-10-25","Esmalte",3,"Cosméticos",2.45
+32064,"2023-10-25","Fio dental",2,"Higiene pessoal",12.29
+76849,"2023-10-25","Batom",9,"Cosméticos",15.9
+67855,"2023-10-25","Pasta de dente",6,"Higiene pessoal",3.1
+17934,"2023-10-25","Escova de dente",1,"Higiene pessoal",20.73
+75566,"2023-10-26","Rímel",6,"Cosméticos",29.9
+22652,"2023-10-26","Escova de dente",10,"Higiene pessoal",20.73
+145698,"2023-10-26","Fio dental",6,"Higiene pessoal",12.29
+2039,"2023-10-26","Esmalte",3,"Cosméticos",2.45
+85949,"2023-10-26","Batom",7,"Cosméticos",15.9
+58590,"2023-10-27","Escova de dente",11,"Higiene pessoal",20.73
+58995,"2023-10-27","Esmalte",5,"Cosméticos",2.45
+39568,"2023-10-27","Batom",1,"Cosméticos",15.9
+79224,"2023-10-27","Pasta de dente",5,"Higiene pessoal",3.1
+62208,"2023-10-28","Esmalte",4,"Cosméticos",2.45
+129802,"2023-10-28","Fio dental",12,"Higiene pessoal",12.29
+50842,"2023-10-28","Dipirona",8,"Saúde",5.25
+5422,"2023-10-28","Rímel",5,"Cosméticos",29.9
+65760,"2023-10-29","Batom",10,"Cosméticos",15.9
+79174,"2023-10-29","Fio dental",3,"Higiene pessoal",12.29
+56198,"2023-10-29","Escova de dente",7,"Higiene pessoal",20.73
+21357,"2023-10-29","Rímel",8,"Cosméticos",29.9
+72770,"2023-10-30","Batom",12,"Cosméticos",15.9
+81517,"2023-10-30","Pasta de dente",10,"Higiene pessoal",3.1
+39471,"2023-10-30","Fio dental",4,"Higiene pessoal",12.29
+77422,"2023-10-30","Rímel",4,"Cosméticos",29.9
+41553,"2023-10-31","Dorflex",12,"Saúde",6.99
+179497,"2023-10-31","Rímel",10,"Cosméticos",29.9
+17906,"2023-10-31","Esmalte",10,"Cosméticos",2.45
+9433,"2023-11-01","Esmalte",4,"Cosméticos",2.45
+237817,"2023-11-01","Dipirona",21,"Saúde",5.25
+54937,"2023-11-02","Dorflex",2,"Saúde",6.99
+86393,"2023-11-03","Escova de dente",1,"Higiene pessoal",20.73
+3562,"2023-11-03","Rímel",6,"Cosméticos",29.9
+54037,"2023-11-03","Dipirona",4,"Saúde",5.25
+155288,"2023-11-03","Fio dental",23,"Higiene pessoal",12.29
+90085,"2023-11-03","Pasta de dente",11,"Higiene pessoal",3.1
+115836,"2023-11-04","Pasta de dente",18,"Higiene pessoal",3.1
+34906,"2023-11-04","Dipirona",2,"Saúde",5.25
+69919,"2023-11-04","Escova de dente",6,"Higiene pessoal",20.73
+87724,"2023-11-04","Batom",6,"Cosméticos",15.9
+6664,"2023-11-04","Fio dental",5,"Higiene pessoal",12.29
+105906,"2023-11-05","Fio dental",13,"Higiene pessoal",12.29
+37497,"2023-11-05","Pasta de dente",1,"Higiene pessoal",3.1
+177919,"2023-11-05","Batom",12,"Cosméticos",15.9
+88068,"2023-11-05","Dipirona",2,"Saúde",5.25
+50720,"2023-11-05","Rímel",9,"Cosméticos",29.9
+64101,"2023-11-06","Escova de dente",5,"Higiene pessoal",20.73
+68372,"2023-11-06","Fio dental",7,"Higiene pessoal",12.29
+77313,"2023-11-06","Rímel",6,"Cosméticos",29.9
+171064,"2023-11-06","Pasta de dente",12,"Higiene pessoal",3.1
+77225,"2023-11-06","Dorflex",5,"Saúde",6.99
+195014,"2023-11-07","Fio dental",7,"Higiene pessoal",12.29
+127059,"2023-11-07","Escova de dente",12,"Higiene pessoal",20.73
+157533,"2023-11-07","Dipirona",11,"Saúde",5.25
+81408,"2023-11-07","Pasta de dente",5,"Higiene pessoal",3.1
+57150,"2023-11-07","Esmalte",6,"Cosméticos",2.45
+74065,"2023-11-07","Dorflex",7,"Saúde",6.99
+89808,"2023-11-08","Escova de dente",3,"Higiene pessoal",20.73
+73262,"2023-11-08","Dipirona",4,"Saúde",5.25
+144654,"2023-11-09","Escova de dente",10,"Higiene pessoal",20.73
+91993,"2023-11-09","Dorflex",8,"Saúde",6.99
+41611,"2023-11-09","Fio dental",2,"Higiene pessoal",12.29
+119809,"2023-11-09","Esmalte",11,"Cosméticos",2.45
+70214,"2023-11-09","Batom",1,"Cosméticos",15.9
+6584,"2023-11-09","Dipirona",7,"Saúde",5.25
+3050,"2023-11-10","Esmalte",4,"Cosméticos",2.45
+99829,"2023-11-10","Dorflex",8,"Saúde",6.99
+110296,"2023-11-10","Rímel",10,"Cosméticos",29.9
+110122,"2023-11-10","Dipirona",10,"Saúde",5.25
+65692,"2023-11-11","Fio dental",5,"Higiene pessoal",12.29
+48006,"2023-11-11","Rímel",1,"Cosméticos",29.9
+16323,"2023-11-11","Pasta de dente",10,"Higiene pessoal",3.1
+11048,"2023-11-11","Escova de dente",6,"Higiene pessoal",20.73
+65077,"2023-11-11","Dorflex",3,"Saúde",6.99
+62739,"2023-11-12","Esmalte",3,"Cosméticos",2.45
+122164,"2023-11-12","Fio dental",9,"Higiene pessoal",12.29
+9640,"2023-11-12","Dipirona",10,"Saúde",5.25
+22986,"2023-11-12","Batom",9,"Cosméticos",15.9
+8980,"2023-11-12","Escova de dente",8,"Higiene pessoal",20.73
+155213,"2023-11-13","Dipirona",24,"Saúde",5.25
+21487,"2023-11-13","Escova de dente",3,"Higiene pessoal",20.73
+97912,"2023-11-13","Batom",5,"Cosméticos",15.9
+85374,"2023-11-13","Esmalte",8,"Cosméticos",2.45
+71155,"2023-11-13","Rímel",2,"Cosméticos",29.9
+37400,"2023-11-14","Batom",7,"Cosméticos",15.9
+12544,"2023-11-14","Dorflex",8,"Saúde",6.99
+77899,"2023-11-14","Fio dental",7,"Higiene pessoal",12.29
+35566,"2023-11-15","Dipirona",2,"Saúde",5.25
+6921,"2023-11-15","Rímel",1,"Cosméticos",29.9
+96247,"2023-11-16","Pasta de dente",4,"Higiene pessoal",3.1
+91958,"2023-11-16","Fio dental",6,"Higiene pessoal",12.29
+100045,"2023-11-17","Pasta de dente",10,"Higiene pessoal",3.1
+35569,"2023-11-17","Fio dental",16,"Higiene pessoal",12.29
+99763,"2023-11-17","Dorflex",1,"Saúde",6.99
+68666,"2023-11-17","Batom",11,"Cosméticos",15.9
+52439,"2023-11-17","Rímel",1,"Cosméticos",29.9
+30955,"2023-11-18","Fio dental",10,"Higiene pessoal",12.29
+36853,"2023-11-18","Escova de dente",5,"Higiene pessoal",20.73
+93846,"2023-11-18","Dipirona",8,"Saúde",5.25
+3334,"2023-11-18","Esmalte",4,"Cosméticos",2.45
+34577,"2023-11-18","Pasta de dente",10,"Higiene pessoal",3.1
+65769,"2023-11-19","Dipirona",11,"Saúde",5.25
+65919,"2023-11-19","Rímel",2,"Cosméticos",29.9
+96302,"2023-11-20","Escova de dente",8,"Higiene pessoal",20.73
+159258,"2023-11-20","Pasta de dente",12,"Higiene pessoal",3.1
+62695,"2023-11-21","Pasta de dente",5,"Higiene pessoal",3.1
+85759,"2023-11-21","Esmalte",3,"Cosméticos",2.45
+222309,"2023-11-22","Escova de dente",22,"Higiene pessoal",20.73
+51031,"2023-11-22","Batom",7,"Cosméticos",15.9
+69856,"2023-11-22","Pasta de dente",1,"Higiene pessoal",3.1
+52161,"2023-11-23","Batom",3,"Cosméticos",15.9
+150130,"2023-11-23","Dorflex",11,"Saúde",6.99
+2022,"2023-11-23","Escova de dente",6,"Higiene pessoal",20.73
+104363,"2023-11-23","Esmalte",8,"Cosméticos",2.45
+112680,"2023-11-23","Rímel",15,"Cosméticos",29.9
+108979,"2023-11-24","Pasta de dente",7,"Higiene pessoal",3.1
+149025,"2023-11-24","Escova de dente",12,"Higiene pessoal",20.73
+93376,"2023-11-24","Dipirona",9,"Saúde",5.25
+48023,"2023-11-24","Dorflex",4,"Saúde",6.99
+27229,"2023-11-24","Batom",5,"Cosméticos",15.9
+25788,"2023-11-24","Esmalte",4,"Cosméticos",2.45
+84043,"2023-11-25","Fio dental",13,"Higiene pessoal",12.29
+41486,"2023-11-25","Dorflex",6,"Saúde",6.99
+83175,"2023-11-25","Esmalte",17,"Cosméticos",2.45
+58259,"2023-11-25","Rímel",3,"Cosméticos",29.9
+14320,"2023-11-25","Dipirona",7,"Saúde",5.25
+16433,"2023-11-26","Dorflex",3,"Saúde",6.99
+130931,"2023-11-27","Rímel",12,"Cosméticos",29.9
+60417,"2023-11-27","Fio dental",9,"Higiene pessoal",12.29
+1134,"2023-11-27","Dipirona",4,"Saúde",5.25
+97605,"2023-11-27","Batom",2,"Cosméticos",15.9
+28131,"2023-11-27","Esmalte",4,"Cosméticos",2.45
+46739,"2023-11-28","Dorflex",7,"Saúde",6.99
+174639,"2023-11-28","Batom",20,"Cosméticos",15.9
+128761,"2023-11-28","Dipirona",18,"Saúde",5.25
+19707,"2023-11-29","Esmalte",7,"Cosméticos",2.45
+10095,"2023-11-29","Fio dental",2,"Higiene pessoal",12.29
+122546,"2023-11-30","Dipirona",20,"Saúde",5.25
+27679,"2023-11-30","Fio dental",2,"Higiene pessoal",12.29
+93814,"2023-11-30","Rímel",10,"Cosméticos",29.9
+75347,"2023-11-30","Escova de dente",3,"Higiene pessoal",20.73
+210,"2023-12-01","Fio dental",4,"Higiene pessoal",12.29
+51065,"2023-12-02","Dorflex",2,"Saúde",6.99
+11094,"2023-12-02","Pasta de dente",5,"Higiene pessoal",3.1
+111467,"2023-12-03","Esmalte",13,"Cosméticos",2.45
+75006,"2023-12-03","Escova de dente",8,"Higiene pessoal",20.73
+91430,"2023-12-04","Fio dental",3,"Higiene pessoal",12.29
+58826,"2023-12-04","Esmalte",7,"Cosméticos",2.45
+76015,"2023-12-05","Escova de dente",1,"Higiene pessoal",20.73
+50050,"2023-12-05","Rímel",1,"Cosméticos",29.9
+89886,"2023-12-05","Esmalte",14,"Cosméticos",2.45
+48309,"2023-12-05","Batom",10,"Cosméticos",15.9
+58275,"2023-12-05","Fio dental",9,"Higiene pessoal",12.29
+65400,"2023-12-05","Dorflex",2,"Saúde",6.99
+36368,"2023-12-06","Pasta de dente",10,"Higiene pessoal",3.1
+10976,"2023-12-06","Esmalte",9,"Cosméticos",2.45
+80443,"2023-12-06","Fio dental",10,"Higiene pessoal",12.29
+14896,"2023-12-06","Batom",1,"Cosméticos",15.9
+138154,"2023-12-07","Fio dental",14,"Higiene pessoal",12.29
+73926,"2023-12-07","Batom",4,"Cosméticos",15.9
+95844,"2023-12-07","Escova de dente",8,"Higiene pessoal",20.73
+48671,"2023-12-08","Pasta de dente",1,"Higiene pessoal",3.1
+33960,"2023-12-08","Dorflex",2,"Saúde",6.99
+111757,"2023-12-08","Esmalte",4,"Cosméticos",2.45
+97085,"2023-12-08","Rímel",11,"Cosméticos",29.9
+12649,"2023-12-09","Esmalte",7,"Cosméticos",2.45
+15185,"2023-12-09","Rímel",3,"Cosméticos",29.9
+17836,"2023-12-10","Dorflex",3,"Saúde",6.99
+73524,"2023-12-10","Dipirona",10,"Saúde",5.25
+89705,"2023-12-10","Rímel",2,"Cosméticos",29.9
+7710,"2023-12-11","Esmalte",2,"Cosméticos",2.45
+101332,"2023-12-12","Batom",4,"Cosméticos",15.9
+2483,"2023-12-12","Pasta de dente",3,"Higiene pessoal",3.1
+24957,"2023-12-12","Dipirona",3,"Saúde",5.25
+96057,"2023-12-13","Escova de dente",10,"Higiene pessoal",20.73
+29805,"2023-12-13","Dipirona",4,"Saúde",5.25
+38108,"2023-12-13","Fio dental",2,"Higiene pessoal",12.29
+34965,"2023-12-14","Batom",9,"Cosméticos",15.9
+37750,"2023-12-14","Dorflex",7,"Saúde",6.99
+19087,"2023-12-15","Dipirona",9,"Saúde",5.25
+447,"2023-12-15","Pasta de dente",6,"Higiene pessoal",3.1
+50772,"2023-12-16","Pasta de dente",10,"Higiene pessoal",3.1
+133812,"2023-12-16","Escova de dente",9,"Higiene pessoal",20.73
+28801,"2023-12-16","Batom",7,"Cosméticos",15.9
+32439,"2023-12-16","Esmalte",8,"Cosméticos",2.45
+99723,"2023-12-16","Dorflex",4,"Saúde",6.99
+95919,"2023-12-17","Batom",2,"Cosméticos",15.9
+139956,"2023-12-18","Dipirona",23,"Saúde",5.25
+31327,"2023-12-18","Rímel",1,"Cosméticos",29.9
+50452,"2023-12-19","Dipirona",5,"Saúde",5.25
+4846,"2023-12-20","Escova de dente",6,"Higiene pessoal",20.73
+58438,"2023-12-20","Fio dental",7,"Higiene pessoal",12.29
+87917,"2023-12-21","Fio dental",15,"Higiene pessoal",12.29
+174895,"2023-12-21","Escova de dente",7,"Higiene pessoal",20.73
+6761,"2023-12-21","Rímel",6,"Cosméticos",29.9
+91498,"2023-12-21","Dipirona",5,"Saúde",5.25
+75675,"2023-12-21","Batom",4,"Cosméticos",15.9
+81020,"2023-12-22","Fio dental",10,"Higiene pessoal",12.29
+19131,"2023-12-22","Rímel",6,"Cosméticos",29.9
+22791,"2023-12-22","Escova de dente",6,"Higiene pessoal",20.73
+98566,"2023-12-23","Batom",10,"Cosméticos",15.9
+78022,"2023-12-23","Fio dental",10,"Higiene pessoal",12.29
+22302,"2023-12-24","Escova de dente",5,"Higiene pessoal",20.73
+126351,"2023-12-24","Batom",15,"Cosméticos",15.9
+20934,"2023-12-24","Dorflex",15,"Saúde",6.99
+73773,"2023-12-24","Rímel",10,"Cosméticos",29.9
+36914,"2023-12-24","Dipirona",7,"Saúde",5.25
+15124,"2023-12-24","Fio dental",2,"Higiene pessoal",12.29
+74064,"2023-12-24","Pasta de dente",9,"Higiene pessoal",3.1
+47623,"2023-12-25","Fio dental",4,"Higiene pessoal",12.29
+106291,"2023-12-26","Esmalte",7,"Cosméticos",2.45
+77446,"2023-12-26","Pasta de dente",5,"Higiene pessoal",3.1
+46343,"2023-12-26","Rímel",4,"Cosméticos",29.9
+91588,"2023-12-26","Batom",7,"Cosméticos",15.9
+80690,"2023-12-26","Fio dental",5,"Higiene pessoal",12.29
+10174,"2023-12-26","Dipirona",6,"Saúde",5.25
+61925,"2023-12-27","Dorflex",11,"Saúde",6.99
+74206,"2023-12-27","Pasta de dente",2,"Higiene pessoal",3.1
+73997,"2023-12-27","Esmalte",9,"Cosméticos",2.45
+54866,"2023-12-27","Rímel",1,"Cosméticos",29.9
+97745,"2023-12-27","Dipirona",14,"Saúde",5.25
+47953,"2023-12-28","Dorflex",8,"Saúde",6.99
+1042,"2023-12-28","Escova de dente",3,"Higiene pessoal",20.73
+96940,"2023-12-29","Dipirona",11,"Saúde",5.25
+63513,"2023-12-29","Fio dental",10,"Higiene pessoal",12.29
+90978,"2023-12-29","Rímel",16,"Cosméticos",29.9
+98399,"2023-12-29","Pasta de dente",5,"Higiene pessoal",3.1
+71824,"2023-12-29","Dorflex",7,"Saúde",6.99
+64394,"2023-12-30","Dorflex",22,"Saúde",6.99
+98037,"2023-12-30","Rímel",5,"Cosméticos",29.9
+58836,"2023-12-30","Escova de dente",6,"Higiene pessoal",20.73
+21849,"2023-12-30","Dipirona",6,"Saúde",5.25
+85431,"2023-12-31","Esmalte",5,"Cosméticos",2.45
