@@ -23,7 +23,7 @@ dados = data.frame() # df vazio
 
 # Datas
 datas = seq(as.Date("2023-01-01"), as.Date("2023-12-31"), by = "day")
-datas = format(datas, "%Y-%m-%d") # formato Dia-Mes-Ano
+datas = format(datas, "%Y-%m-%d") # formato Ano-mes-dia
 meses = c("Janeiro", "Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro")
 
 
